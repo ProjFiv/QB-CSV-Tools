@@ -1,0 +1,328 @@
+item, name, label, weight, type, image, unique, useable, shouldClose, combinable, description
+cleaningkit,cleaningkit,Cleaning Kit,250,item,cleaningkit.png,false,true,true,nil,A microfiber cloth with some soap will let your car sparkle again!
+weapon_grenade,weapon_grenade,Grenade,1000,weapon,weapon_grenade.png,true,false,nil,nil,A handheld throwable bomb
+combatpistol_extendedclip,combatpistol_extendedclip,Pistol EXT Clip,1000,item,pistol_extendedclip.png,false,true,true,nil,Combat Pistol Extended Clip
+nitrous,nitrous,Nitrous,1000,item,nitrous.png,false,true,true,nil,Speed up, gas pedal! :D
+weapon_snspistol_mk2,weapon_snspistol_mk2,SNS Pistol Mk II,1000,weapon,weapon_snspistol_mk2.png,true,true,nil,nil,SNS Pistol MK2
+snipermax_scope,snipermax_scope,Sniper Max Scope,1000,item,smg_scope.png,false,true,true,nil,Sniper Rifle Max Scope Attachment
+smg_scope,smg_scope,SMG Scope,1000,item,smg_scope.png,false,true,true,nil,SMG Scope Attachment
+weapon_minigun,weapon_minigun,Minigun,1000,weapon,weapon_minigun.png,true,false,nil,nil,A portable machine gun consisting of a rotating cluster of six barrels and capable of variable rates of fire of up to 6,000 rounds per minute
+tosti,tosti,Grilled Cheese Sandwich,200,item,tosti.png,false,true,true,nil,Nice to eat
+weapon_assaultsmg,weapon_assaultsmg,Assault SMG,1000,weapon,weapon_assaultsmg.png,true,false,nil,nil,An assault version of a handheld lightweight machine gun
+backpack_small,backpack_small,Petit sac,1000,bag,bag.png,true,true,true,nil,Petit sac
+weapon_stickybomb,weapon_stickybomb,C4,1000,weapon,weapon_stickybomb.png,true,false,nil,nil,An explosive charge covered with an adhesive that when thrown against an object sticks until it explodes
+weapon_firework,weapon_firework,Firework Launcher,1000,weapon,weapon_firework.png,true,false,nil,nil,A device containing gunpowder and other combustible chemicals that causes a spectacular explosion when ignited
+sniper_scope,sniper_scope,Sniper Scope,1000,item,smg_scope.png,false,true,true,nil,Sniper Rifle Scope Attachment
+weapon_flashlight,weapon_flashlight,Flashlight,1000,weapon,weapon_flashlight.png,true,false,nil,nil,A battery-operated portable light
+weapon_raycarbine,weapon_raycarbine,Unholy Hellbringer,1000,weapon,weapon_raycarbine.png,true,true,nil,nil,Weapon Raycarbine
+weapon_raypistol,weapon_raypistol,Up-n-Atomizer,1000,weapon,weapon_raypistol.png,true,true,nil,nil,Weapon Raypistol
+weapon_handcuffs,weapon_handcuffs,Handcuffs,1000,weapon,weapon_handcuffs.png,true,false,nil,nil,A pair of lockable linked metal rings for securing a prisoner's wrists
+heavyshotgun_extendedclip,heavyshotgun_extendedclip,Shotgun EXT Clip,1000,item,pistol_extendedclip.png,false,true,true,nil,Heavy Shotgun Extended Clip
+handcuffs,handcuffs,Handcuffs,100,item,handcuffs.png,false,true,true,nil,Comes in handy when people misbehave. Maybe it can be used for something else?
+weapon_doubleaction,weapon_doubleaction,Double Action Revolver,1000,weapon,weapon_doubleaction.png,true,true,nil,nil,Double Action Revolver
+weapon_bullpuprifle_mk2,weapon_bullpuprifle_mk2,Bullpup Rifle Mk II,1000,weapon,weapon_bullpuprifle_mk2.png,true,true,nil,nil,Bull Puprifle MK2
+radio,radio,Radio,2000,item,radio.png,true,true,true,nil,You can communicate with this through a signal
+pistol_ammo,pistol_ammo,Pistol ammo,200,item,pistol_ammo.png,false,true,true,nil,Ammo for Pistols
+combatpistol_luxuryfinish,combatpistol_luxuryfinish,Pistol Finish,1000,item,pistol_suppressor.png,false,true,true,nil,Combat Pistol Luxury Finish
+weapon_bullpupshotgun,weapon_bullpupshotgun,Bullpup Shotgun,1000,weapon,weapon_bullpupshotgun.png,true,false,nil,nil,A compact smoothbore gun for firing small shot at short range
+weapon_poolcue,weapon_poolcue,Poolcue,1000,weapon,weapon_poolcue.png,true,false,nil,nil,A stick used to strike a ball, usually the cue ball (or other things)
+carbinerifle_luxuryfinish,carbinerifle_luxuryfinish,Rifle Finish,1000,item,pistol_suppressor.png,false,true,true,nil,Carbine Rifle Luxury Finish
+beer,beer,Beer,500,item,beer.png,false,true,true,nil,Nothing like a good cold beer!
+iphone,iphone,iPhone,1000,item,iphone.png,false,false,true,nil,Very expensive phone
+jerry_can,jerry_can,Jerrycan 20L,20000,item,jerry_can.png,false,true,true,nil,A can full of Fuel
+weapon_ceramicpistol,weapon_ceramicpistol,Ceramic Pistol,1000,weapon,weapon_ceramicpistol.png,true,true,nil,nil,Weapon Ceramicpistol
+bullpuprifle_defaultclip,bullpuprifle_defaultclip,Rifle Clip,1000,item,pistol_extendedclip.png,false,true,true,nil,Bullpup Rifle Default Clip
+advancedrifle_defaultclip,advancedrifle_defaultclip,Rifle Clip,1000,item,pistol_extendedclip.png,false,true,true,nil,Advanced Rifle Default Clip
+printerdocument,printerdocument,Document,500,item,printerdocument.png,true,true,true,nil,A nice document
+compactrifle_defaultclip,compactrifle_defaultclip,Rifle Clip,1000,item,pistol_extendedclip.png,false,true,true,nil,Compact Rifle Default Clip
+oxy,oxy,Prescription Oxy,0,item,oxy.png,false,true,true,nil,The Label Has Been Ripped Off
+drill,drill,Drill,20000,item,drill.png,false,false,false,nil,The real deal...
+weed_og-kush_seed,weed_og-kush_seed,OGKush Seed,0,item,weed_seed.png,false,true,true,nil,A weed seed of OG Kush
+weapon_minismg,weapon_minismg,Mini SMG,1000,weapon,weapon_minismg.png,true,false,nil,nil,A mini handheld lightweight machine gun
+weapon_heavypistol,weapon_heavypistol,Heavy Pistol,1000,weapon,weapon_heavypistol.png,true,false,nil,nil,A hefty firearm designed to be held in one hand (or attempted)
+weapon_heavysniper_mk2,weapon_heavysniper_mk2,Heavy Sniper Mk II,1000,weapon,weapon_heavysniper_mk2.png,true,true,nil,nil,Weapon Heavysniper MK2
+empty_weed_bag,empty_weed_bag,Empty Weed Bag,0,item,weed_baggy_empty.png,false,true,true,nil,A small empty bag
+id_card,id_card,ID Card,0,item,id_card.png,true,true,false,nil,A card containing all your information to identify yourself
+weapon_railgun,weapon_railgun,Railgun,1000,weapon,weapon_railgun.png,true,false,nil,nil,A weapon that uses electromagnetic force to launch high velocity projectiles
+weed_purple-haze_seed,weed_purple-haze_seed,Purple Haze Seed,0,item,weed_seed.png,false,true,true,nil,A weed seed of Purple Haze
+iron,iron,Iron,100,item,iron.png,false,false,false,nil,Handy piece of metal that you can probably use for something
+firstaid,firstaid,First Aid,2500,item,firstaid.png,false,true,true,nil,You can use this First Aid kit to get people back on their feet
+weapon_bottle,weapon_bottle,Broken Bottle,1000,weapon,weapon_bottle.png,true,false,nil,nil,A broken bottle
+weapon_rayminigun,weapon_rayminigun,Widowmaker,1000,weapon,weapon_rayminigun.png,true,true,nil,nil,Weapon Rayminigun
+visa,visa,Visa Card,0,item,visacard.png,true,true,false,nil,Visa can be used via ATM
+repairkit,repairkit,Repairkit,2500,item,repairkit.png,false,true,true,nil,A nice toolbox with stuff to repair your vehicle
+marksmanrifle_extendedclip,marksmanrifle_extendedclip,Sniper EXT Clip,1000,item,pistol_extendedclip.png,false,true,true,nil,Marksman Rifle Extended Clip
+weapon_compactlauncher,weapon_compactlauncher,Compact Launcher,1000,weapon,weapon_compactlauncher.png,true,false,nil,nil,A compact grenade launcher
+appistol_extendedclip,appistol_extendedclip,Pistol EXT Clip,1000,item,pistol_extendedclip.png,false,true,true,nil,APPistol Extended Clip
+pistol_defaultclip,pistol_defaultclip,Pistol Clip,1000,item,pistol_extendedclip.png,false,true,true,nil,Pistol Default Clip
+weapon_compactrifle,weapon_compactrifle,Compact Rifle,1000,weapon,weapon_compactrifle.png,true,false,nil,nil,A compact version of an assault rifle
+weapon_bat,weapon_bat,Bat,1000,weapon,weapon_bat.png,true,false,nil,nil,Used for hitting a ball in sports (or other things)
+wine,wine,Wine,300,item,wine.png,false,true,false,nil,Some good wine to drink on a fine evening
+weapon_fireextinguisher,weapon_fireextinguisher,Fire Extinguisher,1000,weapon,weapon_fireextinguisher.png,true,false,nil,nil,A portable device that discharges a jet of water, foam, gas, or other material to extinguish a fire
+antipatharia_coral,antipatharia_coral,Antipatharia,1000,item,antipatharia_coral.png,false,false,true,nil,Its also known as black corals or thorn corals
+weapon_assaultrifle_mk2,weapon_assaultrifle_mk2,Assault Rifle Mk II,1000,weapon,weapon_assaultrifle_mk2.png,true,true,nil,nil,Assault Rifle MK2
+glass,glass,Glass,100,item,glass.png,false,false,false,nil,It is very fragile, watch out
+weapon_sniperrifle,weapon_sniperrifle,Sniper Rifle,1000,weapon,weapon_sniperrifle.png,true,false,nil,nil,A high-precision, long-range rifle
+heavyshotgun_drum,heavyshotgun_drum,Shotgun Drum,1000,item,rifle_drummag.png,false,true,true,nil,Heavy Shotgun Drum
+weapon_gusenberg,weapon_gusenberg,Thompson SMG,1000,weapon,weapon_gusenberg.png,true,false,nil,nil,An automatic rifle commonly referred to as a tommy gun
+weapon_hammer,weapon_hammer,Hammer,1000,weapon,weapon_hammer.png,true,false,nil,nil,Used for jobs such as breaking things (legs) and driving in nails
+moneybag,moneybag,Money Bag,0,item,moneybag.png,true,true,true,nil,A bag with cash
+weapontint_gold,weapontint_gold,Gold Tint,1000,item,weapontint_gold.png,false,true,true,nil,Gold Weapon Tint
+weapon_smg_mk2,weapon_smg_mk2,SMG Mk II,1000,weapon,weapon_smg_mk2.png,true,true,nil,nil,SMG MK2
+filled_evidence_bag,filled_evidence_bag,Evidence Bag,200,item,evidence.png,true,false,false,nil,A filled evidence bag to see who committed the crime >:(
+gusenberg_defaultclip,gusenberg_defaultclip,Rifle Clip,1000,item,pistol_extendedclip.png,false,true,true,nil,Gusenberg Default Clip
+weapon_musket,weapon_musket,Musket,1000,weapon,weapon_musket.png,true,false,nil,nil,An infantryman's light gun with a long barrel, typically smooth-bored, muzzleloading, and fired from the shoulder
+security_card_01,security_card_01,Security Card A,0,item,security_card_01.png,false,true,true,nil,A security card... I wonder what it goes to
+pistol_flashlight,pistol_flashlight,Pistol Flashlight,1000,item,smg_flashlight.png,false,true,true,nil,Pistol Flashlight Attachment
+combatpdw_defaultclip,combatpdw_defaultclip,SMG Clip,1000,item,pistol_extendedclip.png,false,true,true,nil,Combat PDW Default Clip
+metalscrap,metalscrap,Metal Scrap,100,item,metalscrap.png,false,false,false,nil,You can probably make something nice out of this
+specialcarbine_drum,specialcarbine_drum,Rifle Drum,1000,item,rifle_drummag.png,false,true,true,nil,Special Carbine Drum
+pistol_luxuryfinish,pistol_luxuryfinish,Pistol Finish,1000,item,pistol_suppressor.png,false,true,true,nil,Pistol Luxury Finish
+weapon_sawnoffshotgun,weapon_sawnoffshotgun,Sawn-off Shotgun,1000,weapon,weapon_sawnoffshotgun.png,true,false,nil,nil,A sawn-off smoothbore gun for firing small shot at short range
+weapon_grenadelauncher,weapon_grenadelauncher,Grenade Launcher,1000,weapon,weapon_grenadelauncher.png,true,false,nil,nil,A weapon that fires a specially-designed large-caliber projectile, often with an explosive, smoke or gas warhead
+weapon_revolver,weapon_revolver,Revolver,1000,weapon,weapon_revolver.png,true,false,nil,nil,A pistol with revolving chambers enabling several shots to be fired without reloading
+minismg_defaultclip,minismg_defaultclip,SMG Clip,1000,item,pistol_extendedclip.png,false,true,true,nil,Mini SMG Default Clip
+weapon_heavyshotgun,weapon_heavyshotgun,Heavy Shotgun,1000,weapon,weapon_heavyshotgun.png,true,false,nil,nil,A large smoothbore gun for firing small shot at short range
+sniper_grip,sniper_grip,Sniper Grip,1000,item,pistol_suppressor.png,false,true,true,nil,Sniper Rifle Grip Attachment
+bullpuprifle_luxuryfinish,bullpuprifle_luxuryfinish,Rifle Finish,1000,item,pistol_suppressor.png,false,true,true,nil,Bullpup Rifle Luxury Finish
+weapontint_black,weapontint_black,Default Tint,1000,item,weapontint_black.png,false,true,true,nil,Default/Black Weapon Tint
+microsmg_defaultclip,microsmg_defaultclip,SMG Clip,1000,item,pistol_extendedclip.png,false,true,true,nil,Micro SMG Default Clip
+weapon_revolver_mk2,weapon_revolver_mk2,Violence,1000,weapon,weapon_revolver_mk2.png,true,true,nil,nil,da Violence
+painkillers,painkillers,Painkillers,0,item,painkillers.png,false,true,true,nil,For pain you can't stand anymore, take this pill that'd make you feel great again
+pistol50_defaultclip,pistol50_defaultclip,Pistol Clip,1000,item,pistol_extendedclip.png,false,true,true,nil,.50 Pistol Default Clip
+rifle_suppressor,rifle_suppressor,Rifle Suppressor,1000,item,pistol_suppressor.png,false,true,true,nil,Rifle Suppressor Attachment
+carbinerifle_defaultclip,carbinerifle_defaultclip,Rifle Clip,1000,item,pistol_extendedclip.png,false,true,true,nil,Carbine Rifle Default Clip
+revolver_bodyguardvariant,revolver_bodyguardvariant,Pistol Variant,1000,item,pistol_suppressor.png,false,true,true,nil,Revovler Variant
+water_bottle,water_bottle,Bottle of Water,500,item,water_bottle.png,false,true,true,nil,For all the thirsty out there
+rifle_flashlight,rifle_flashlight,Rifle Flashlight,1000,item,smg_flashlight.png,false,true,true,nil,Rifle Flashlight Attachment
+pistol_extendedclip,pistol_extendedclip,Pistol EXT Clip,1000,item,pistol_extendedclip.png,false,true,true,nil,Pistol Extended Clip
+weed_white-widow,weed_white-widow,White Widow 2g,200,item,weed_baggy.png,false,true,false,nil,A weed bag with 2g White Widow
+coke_brick,coke_brick,Coke Brick,1000,item,coke_brick.png,true,false,true,nil,Heavy package of cocaine, mostly used for deals and takes a lot of space
+weapon_ball,weapon_ball,Ball,1000,weapon,weapon_ball.png,true,false,nil,nil,A solid or hollow spherical or egg-shaped object that is kicked, thrown, or hit in a game
+combatpistol_defaultclip,combatpistol_defaultclip,Pistol Clip,1000,item,pistol_extendedclip.png,false,true,true,nil,Combat Pistol Default Clip
+weapon_switchblade,weapon_switchblade,Switchblade,1000,weapon,weapon_switchblade.png,true,false,nil,nil,A knife with a blade that springs out from the handle when a button is pressed
+weapon_specialcarbine_mk2,weapon_specialcarbine_mk2,Special Carbine Mk II,1000,weapon,weapon_specialcarbine_mk2.png,true,true,nil,nil,Weapon Wpecialcarbine MK2
+weapon_combatmg,weapon_combatmg,Combat MG,1000,weapon,weapon_combatmg.png,true,false,nil,nil,A combat version of an automatic gun that fires bullets in rapid succession for as long as the trigger is pressed
+minismg_extendedclip,minismg_extendedclip,SMG EXT Clip,1000,item,pistol_extendedclip.png,false,true,true,nil,Mini SMG Extended Clip
+weapon_combatshotgun,weapon_combatshotgun,Combat Shotgun,1000,weapon,weapon_combatshotgun.png,true,true,nil,nil,Weapon Combatshotgun
+weapon_golfclub,weapon_golfclub,Golfclub,1000,weapon,weapon_golfclub.png,true,false,nil,nil,A club used to hit the ball in golf
+specialcarbine_extendedclip,specialcarbine_extendedclip,Rifle EXT Clip,1000,item,pistol_extendedclip.png,false,true,true,nil,Special Carbine Extended Clip
+weapon_pumpshotgun_mk2,weapon_pumpshotgun_mk2,Pumpshotgun Mk II,1000,weapon,weapon_pumpshotgun_mk2.png,true,true,nil,nil,Pumpshotgun MK2
+weed_amnesia,weed_amnesia,Amnesia 2g,200,item,weed_baggy.png,false,true,false,nil,A weed bag with 2g Amnesia
+bandage,bandage,Bandage,0,item,bandage.png,false,true,true,nil,A bandage works every time
+weapon_molotov,weapon_molotov,Molotov,1000,weapon,weapon_molotov.png,true,false,nil,nil,A crude bomb made of a bottle filled with a flammable liquid and fitted with a wick for lighting
+snspistol_extendedclip,snspistol_extendedclip,Pistol EXT Clip,1000,item,pistol_extendedclip.png,false,true,true,nil,SNS Pistol Extended Clip
+compactrifle_extendedclip,compactrifle_extendedclip,Rifle EXT Clip,1000,item,pistol_extendedclip.png,false,true,true,nil,Compact Rifle Extended Clip
+weapon_marksmanrifle,weapon_marksmanrifle,Marksman Rifle,1000,weapon,weapon_marksmanrifle.png,true,false,nil,nil,A very accurate single-fire rifle
+heavypistol_extendedclip,heavypistol_extendedclip,Pistol EXT Clip,1000,item,pistol_extendedclip.png,false,true,true,nil,Heavy Pistol Extended Clip
+advancedrepairkit,advancedrepairkit,Advanced Repairkit,4000,item,advancedkit.png,false,true,true,nil,A nice toolbox with stuff to repair your vehicle
+weed_white-widow_seed,weed_white-widow_seed,White Widow Seed,0,item,weed_seed.png,false,true,false,nil,A weed seed of White Widow
+weapon_microsmg,weapon_microsmg,Micro SMG,1000,weapon,weapon_microsmg.png,true,false,nil,nil,A handheld lightweight machine gun
+assaultsmg_defaultclip,assaultsmg_defaultclip,SMG Clip,1000,item,pistol_extendedclip.png,false,true,true,nil,Assault SMG Default Clip
+lighter,lighter,Lighter,0,item,lighter.png,false,false,true,nil,On new years eve a nice fire to stand next to
+revolver_defaultclip,revolver_defaultclip,Pistol Clip,1000,item,pistol_extendedclip.png,false,true,true,nil,Revovler Default Clip
+weapon_knuckle,weapon_knuckle,Knuckle,1000,weapon,weapon_knuckle.png,true,false,nil,nil,A metal guard worn over the knuckles in fighting, especially to increase the effect of the blows
+vintagepistol_extendedclip,vintagepistol_extendedclip,Pistol EXT Clip,1000,item,pistol_extendedclip.png,false,true,true,nil,Vintage Pistol Default Clip
+combatpdw_scope,combatpdw_scope,SMG Scope,1000,item,smg_scope.png,false,true,true,nil,Combat PDW Scope Attachment
+weapontint_army,weapontint_army,Army Tint,1000,item,weapontint_army.png,false,true,true,nil,Army Weapon Tint
+marksmanrifle_luxuryfinish,marksmanrifle_luxuryfinish,Sniper Finish,1000,item,pistol_suppressor.png,false,true,true,nil,Marksman Rifle Luxury Finish
+assaultsmg_luxuryfinish,assaultsmg_luxuryfinish,SMG Finish,1000,item,pistol_suppressor.png,false,true,true,nil,Assault SMG Luxury Finish
+combatpdw_extendedclip,combatpdw_extendedclip,SMG EXT Clip,1000,item,pistol_extendedclip.png,false,true,true,nil,Combat PDW Extended Clip
+sniperrifle_defaultclip,sniperrifle_defaultclip,Sniper Suppressor,1000,item,pistol_suppressor.png,false,true,true,nil,Sniper Rifle Default Clip
+shotgun_ammo,shotgun_ammo,Shotgun ammo,500,item,shotgun_ammo.png,false,true,true,nil,Ammo for Shotguns
+tunerlaptop,tunerlaptop,Tunerchip,2000,item,tunerchip.png,true,true,true,nil,With this tunerchip you can get your car on steroids... If you know what you're doing
+weapon_unarmed,weapon_unarmed,Fists,1000,weapon,placeholder.png,true,false,nil,nil,Fisticuffs
+weapon_wrench,weapon_wrench,Wrench,1000,weapon,weapon_wrench.png,true,false,nil,nil,A tool used for gripping and turning nuts, bolts, pipes, etc
+smg_ammo,smg_ammo,SMG ammo,500,item,smg_ammo.png,false,true,true,nil,Ammo for Sub Machine Guns
+weapon_stungun,weapon_stungun,Taser,1000,weapon,weapon_stungun.png,true,false,nil,nil,A weapon firing barbs attached by wires to batteries, causing temporary paralysis
+weapon_knife,weapon_knife,Knife,1000,weapon,weapon_knife.png,true,false,nil,nil,An instrument composed of a blade fixed into a handle, used for cutting or as a weapon
+weapon_advancedrifle,weapon_advancedrifle,Advanced Rifle,1000,weapon,weapon_advancedrifle.png,true,false,nil,nil,An assault version of a rapid-fire, magazine-fed automatic rifle designed for infantry use
+ifaks,ifaks,ifaks,200,item,ifaks.png,false,true,true,nil,ifaks for healing and a complete stress remover.
+weapon_flaregun,weapon_flaregun,Flare Gun,1000,weapon,weapon_flaregun.png,true,false,nil,nil,A handgun for firing signal rockets
+weapon_machinepistol,weapon_machinepistol,Tec-9,1000,weapon,weapon_machinepistol.png,true,false,nil,nil,A self-loading pistol capable of burst or fully automatic fire
+appistol_luxuryfinish,appistol_luxuryfinish,Pistol Finish,1000,item,pistol_suppressor.png,false,true,true,nil,APPistol Luxury Finish
+mg_ammo,mg_ammo,MG ammo,1000,item,mg_ammo.png,false,true,true,nil,Ammo for Machine Guns
+crack_baggy,crack_baggy,Bag of Crack,0,item,crack_baggy.png,false,true,true,nil,To get happy faster
+dendrogyra_coral,dendrogyra_coral,Dendrogyra,1000,item,dendrogyra_coral.png,false,false,true,nil,Its also known as pillar coral
+weapon_petrolcan,weapon_petrolcan,Petrol Can,1000,weapon,weapon_petrolcan.png,true,false,nil,nil,A robust liquid container made from pressed steel
+weapon_nightstick,weapon_nightstick,Nightstick,1000,weapon,weapon_nightstick.png,true,false,nil,nil,A police officer's club or billy
+rubber,rubber,Rubber,100,item,rubber.png,false,false,false,nil,Rubber, I believe you can make your own rubber ducky with it :D
+weapon_snowball,weapon_snowball,Snowball,1000,weapon,weapon_snowball.png,true,false,nil,nil,A ball of packed snow, especially one made for throwing at other people for fun
+weapontint_green,weapontint_green,Green Tint,1000,item,weapontint_green.png,false,true,true,nil,Green Weapon Tint
+smg_luxuryfinish,smg_luxuryfinish,SMG Finish,1000,item,pistol_suppressor.png,false,true,true,nil,SMG Luxury Finish
+weapon_bullpuprifle,weapon_bullpuprifle,Bullpup Rifle,1000,weapon,weapon_bullpuprifle.png,true,false,nil,nil,A compact automatic assault rifle
+weapon_hazardcan,weapon_hazardcan,Hazardous Jerry Can,1000,weapon,weapon_hazardcan.png,true,true,nil,nil,Weapon Hazardcan
+xtcbaggy,xtcbaggy,Bag of XTC,0,item,xtc_baggy.png,false,true,true,nil,Pop those pills baby
+weapon_assaultshotgun,weapon_assaultshotgun,Assault Shotgun,1000,weapon,weapon_assaultshotgun.png,true,false,nil,nil,An assault version of asmoothbore gun for firing small shot at short range
+specialcarbine_luxuryfinish,specialcarbine_luxuryfinish,Rifle Finish,1000,item,pistol_suppressor.png,false,true,true,nil,Special Carbine Luxury Finish
+assaultrifle_extendedclip,assaultrifle_extendedclip,Rifle EXT Clip,1000,item,pistol_extendedclip.png,false,true,true,nil,Assault Rifle Extended Clip
+weapon_crowbar,weapon_crowbar,Crowbar,1000,weapon,weapon_crowbar.png,true,false,nil,nil,An iron bar with a flattened end, used as a lever
+assaultsmg_extendedclip,assaultsmg_extendedclip,SMG EXT Clip,1000,item,pistol_extendedclip.png,false,true,true,nil,Assault SMG Extended Clip
+weapon_garbagebag,weapon_garbagebag,Garbage Bag,1000,weapon,weapon_garbagebag.png,true,false,nil,nil,A garbage bag
+steel,steel,Steel,100,item,steel.png,false,false,false,nil,Nice piece of metal that you can probably use for something
+weapon_smg,weapon_smg,SMG,1000,weapon,weapon_smg.png,true,false,nil,nil,A handheld lightweight machine gun
+rolex,rolex,Golden Watch,1500,item,rolex.png,false,false,true,nil,A golden watch seems like the jackpot to me!
+sandwich,sandwich,Sandwich,200,item,sandwich.png,false,true,true,nil,Nice bread for your stomach
+rolling_paper,rolling_paper,Rolling Paper,0,item,rolling_paper.png,false,false,true,table: 0x55a5a8fd6110,Paper made specifically for encasing and smoking tobacco or cannabis.
+machinepistol_extendedclip,machinepistol_extendedclip,SMG EXT Clip,1000,item,pistol_extendedclip.png,false,true,true,nil,Machine Pistol Extended Clip
+weapon_smokegrenade,weapon_smokegrenade,Smoke Grenade,1000,weapon,weapon_c4.png,true,false,nil,nil,An explosive charge that can be remotely detonated
+vodka,vodka,Vodka,500,item,vodka.png,false,true,true,nil,For all the thirsty out there
+combatpdw_grip,combatpdw_grip,SMG Grip,1000,item,pistol_suppressor.png,false,true,true,nil,Combat PDW Grip Attachment
+weapon_snspistol,weapon_snspistol,SNS Pistol,1000,weapon,weapon_snspistol.png,true,false,nil,nil,A very small firearm designed to be easily concealed
+compactrifle_drum,compactrifle_drum,Rifle Drum,1000,item,rifle_drummag.png,false,true,true,nil,Compact Rifle Drum
+weapon_appistol,weapon_appistol,AP Pistol,1000,weapon,weapon_appistol.png,true,false,nil,nil,A small firearm designed to be held in one hand that is automatic
+weed_ak47,weed_ak47,AK47 2g,200,item,weed_baggy.png,false,true,false,nil,A weed bag with 2g AK47
+backpack_large,backpack_large,Grand sac,2000,bag,bag.png,true,true,true,nil,Grand sac
+empty_evidence_bag,empty_evidence_bag,Empty Evidence Bag,0,item,evidence.png,false,false,false,nil,Used a lot to keep DNA from blood, bullet shells and more
+lawyerpass,lawyerpass,Lawyer Pass,0,item,lawyerpass.png,true,true,false,nil,Pass exclusive to lawyers to show they can represent a suspect
+weapon_navyrevolver,weapon_navyrevolver,Navy Revolver,1000,weapon,weapon_navyrevolver.png,true,true,nil,nil,Weapon Navyrevolver
+backpack_medium,backpack_medium,Moyen sac,1500,bag,bag.png,true,true,true,nil,Moyen sac
+ironoxide,ironoxide,Iron Powder,100,item,ironoxide.png,false,false,false,table: 0x55a5a8fd9e00,Some powder to mix with.
+labkey,labkey,Key,500,item,labkey.png,true,true,true,nil,Key for a lock...?
+weapon_briefcase_02,weapon_briefcase_02,Suitcase,1000,weapon,weapon_briefcase2.png,true,false,nil,nil,Wonderfull for nice vacation to Liberty City
+screwdriverset,screwdriverset,Toolkit,1000,item,screwdriverset.png,false,false,false,nil,Very useful to screw... screws...
+markedbills,markedbills,Marked Money,1000,item,markedbills.png,true,false,true,nil,Money?
+snowball,snowball,Snowball,0,item,snowball.png,false,true,true,nil,Should have catched it :D
+certificate,certificate,Certificate,0,item,certificate.png,false,false,true,nil,Certificate that proves you own certain stuff
+carbinerifle_drum,carbinerifle_drum,Rifle Drum,1000,item,rifle_drummag.png,false,true,true,nil,Carbine Rifle Drum
+diving_gear,diving_gear,Diving Gear,30000,item,diving_gear.png,true,true,true,nil,An oxygen tank and a rebreather
+parachute,parachute,Parachute,30000,item,parachute.png,true,true,true,nil,The sky is the limit! Woohoo!
+weapon_gadgetpistol,weapon_gadgetpistol,Perico Pistol,1000,weapon,weapon_gadgetpistol.png,true,true,nil,nil,Weapon Gadgetpistol
+assaultrifle_drum,assaultrifle_drum,Rifle Drum,1000,item,rifle_drummag.png,false,true,true,nil,Assault Rifle Drum
+weapon_remotesniper,weapon_remotesniper,Remote Sniper,1000,weapon,weapon_remotesniper.png,true,false,nil,nil,A portable high-precision, long-range rifle
+stickynote,stickynote,Sticky note,0,item,stickynote.png,true,false,false,nil,Sometimes handy to remember something :)
+weapon_hatchet,weapon_hatchet,Hatchet,1000,weapon,weapon_hatchet.png,true,false,nil,nil,A small axe with a short handle for use in one hand
+casinochips,casinochips,Casino Chips,0,item,casinochips.png,false,false,false,nil,Chips For Casino Gambling
+weapon_marksmanpistol,weapon_marksmanpistol,Marksman Pistol,1000,weapon,weapon_marksmanpistol.png,true,false,nil,nil,A very accurate small firearm designed to be held in one hand
+bullpuprifle_extendedclip,bullpuprifle_extendedclip,Rifle EXT Clip,1000,item,pistol_extendedclip.png,false,true,true,nil,Bullpup Rifle Extended Clip
+pumpshotgun_luxuryfinish,pumpshotgun_luxuryfinish,Shotgun Finish,1000,item,pistol_extendedclip.png,false,true,true,nil,Pump Shotgun Luxury Finish
+weapon_vintagepistol,weapon_vintagepistol,Vintage Pistol,1000,weapon,weapon_vintagepistol.png,true,false,nil,nil,An antique firearm designed to be held in one hand
+marksmanrifle_scope,marksmanrifle_scope,Sniper Scope,1000,item,smg_scope.png,false,true,true,nil,Marksman Rifle Scope Attachment
+goldbar,goldbar,Gold Bar,7000,item,goldbar.png,false,false,true,nil,Looks pretty expensive to me
+carbinerifle_scope,carbinerifle_scope,Rifle Scope,1000,item,smg_scope.png,false,true,true,nil,Carbine Rifle Scope
+coke_small_brick,coke_small_brick,Coke Package,350,item,coke_small_brick.png,true,false,true,nil,Small package of cocaine, mostly used for deals and takes a lot of space
+weapon_carbinerifle,weapon_carbinerifle,Carbine Rifle,1000,weapon,weapon_carbinerifle.png,true,false,nil,nil,A lightweight automatic rifle
+aluminum,aluminum,Aluminium,100,item,aluminum.png,false,false,false,nil,Nice piece of metal that you can probably use for something
+diamond,diamond,Diamond,1000,item,diamond.png,false,false,true,nil,A diamond seems like the jackpot to me!
+firework2,firework2,Poppelers,1000,item,firework2.png,false,true,true,nil,Fireworks
+firework1,firework1,2Brothers,1000,item,firework1.png,false,true,true,nil,Fireworks
+weapontint_orange,weapontint_orange,Orange Tint,1000,item,weapontint_orange.png,false,true,true,nil,Orange Weapon Tint
+heavyarmor,heavyarmor,Heavy Armor,5000,item,armor.png,false,true,true,nil,Some protection won't hurt... right?
+assaultrifle_luxuryfinish,assaultrifle_luxuryfinish,Rifle Finish,1000,item,pistol_suppressor.png,false,true,true,nil,Assault Rifle Luxury Finish
+armor,armor,Armor,5000,item,armor.png,false,true,true,nil,Some protection won't hurt... right?
+10kgoldchain,10kgoldchain,10k Gold Chain,2000,item,10kgoldchain.png,false,false,true,nil,10 carat golden chain
+weapon_hominglauncher,weapon_hominglauncher,Homing Launcher,1000,weapon,weapon_hominglauncher.png,true,false,nil,nil,A weapon fitted with an electronic device that enables it to find and hit a target
+goldchain,goldchain,Golden Chain,1500,item,goldchain.png,false,false,true,nil,A golden chain seems like the jackpot to me!
+diamond_ring,diamond_ring,Diamond Ring,1500,item,diamond_ring.png,false,false,true,nil,A diamond ring seems like the jackpot to me!
+cryptostick,cryptostick,Crypto Stick,200,item,cryptostick.png,true,true,true,nil,Why would someone ever buy money that doesn't exist.. How many would it contain..?
+assaultrifle_defaultclip,assaultrifle_defaultclip,Rifle Clip,1000,item,pistol_extendedclip.png,false,true,true,nil,Assault Rifle Default Clip
+weapon_combatmg_mk2,weapon_combatmg_mk2,Combat MG Mk II,1000,weapon,weapon_combatmg_mk2.png,true,true,nil,nil,Weapon Combatmg MK2
+pinger,pinger,Pinger,1000,item,pinger.png,false,false,true,nil,With a pinger and your phone you can send out your location
+radioscanner,radioscanner,Radio Scanner,1000,item,radioscanner.png,false,false,true,nil,With this you can get some police alerts. Not 100% effective however
+specialcarbine_defaultclip,specialcarbine_defaultclip,Rifle Clip,1000,item,pistol_extendedclip.png,false,true,true,nil,Special Carbine Default Clip
+weapon_stone_hatchet,weapon_stone_hatchet,Stone Hatchet,1000,weapon,weapon_stone_hatchet.png,true,true,nil,nil,Stone ax
+gusenberg_extendedclip,gusenberg_extendedclip,Rifle EXT Clip,1000,item,pistol_extendedclip.png,false,true,true,nil,Gusenberg Extended Clip
+weapon_flare,weapon_flare,Flare pistol,1000,weapon,weapon_flare.png,true,false,nil,nil,A small pyrotechnic devices used for illumination and signalling
+coffee,coffee,Coffee,200,item,coffee.png,false,true,true,nil,Pump 4 Caffeine
+samsungphone,samsungphone,Samsung S10,1000,item,samsungphone.png,false,false,true,nil,Very expensive phone
+fitbit,fitbit,Fitbit,500,item,fitbit.png,true,true,true,nil,I like fitbit
+grape,grape,Grape,100,item,grape.png,false,true,false,nil,Mmmmh yummie, grapes
+harness,harness,Race Harness,1000,item,harness.png,true,true,true,nil,Racing Harness so no matter what you stay in the car
+weapon_militaryrifle,weapon_militaryrifle,Military Rifle,1000,weapon,weapon_militaryrifle.png,true,true,nil,nil,Weapon Militaryrifle
+weapon_combatpistol,weapon_combatpistol,Combat Pistol,1000,weapon,weapon_combatpistol.png,true,false,nil,nil,A combat version small firearm designed to be held in one hand
+trojan_usb,trojan_usb,Trojan USB,0,item,usb_device.png,false,false,true,nil,Handy software to shut down some systems
+weapon_briefcase,weapon_briefcase,Briefcase,1000,weapon,weapon_briefcase.png,true,false,nil,nil,A briefcase for storing important documents
+advancedrifle_extendedclip,advancedrifle_extendedclip,Rifle EXT Clip,1000,item,pistol_extendedclip.png,false,true,true,nil,Advanced Rifle Extended Clip
+weapon_pistol,weapon_pistol,Walther P99,1000,weapon,weapon_pistol.png,true,false,nil,nil,A small firearm designed to be held in one hand
+thermite,thermite,Thermite,1000,item,thermite.png,false,true,true,nil,Sometimes you'd wish for everything to burn
+weed_skunk,weed_skunk,Skunk 2g,200,item,weed_baggy.png,false,true,false,nil,A weed bag with 2g Skunk
+microsmg_scope,microsmg_scope,SMG Scope,1000,item,smg_scope.png,false,true,true,nil,Micro SMG Scope Attachment
+weapon_specialcarbine,weapon_specialcarbine,Special Carbine,1000,weapon,weapon_specialcarbine.png,true,false,nil,nil,An extremely versatile assault rifle for any combat situation
+weapon_proxmine,weapon_proxmine,Proxmine Grenade,1000,weapon,weapon_proximitymine.png,true,false,nil,nil,A bomb placed on the ground that detonates when going within its proximity
+electronickit,electronickit,Electronic Kit,100,item,electronickit.png,false,true,true,table: 0x55a5a8fdb320,If you've always wanted to build a robot you can maybe start here. Maybe you'll be the new Elon Musk?
+advancedlockpick,advancedlockpick,Advanced Lockpick,500,item,advancedlockpick.png,false,true,true,nil,If you lose your keys a lot this is very useful... Also useful to open your beers
+twerks_candy,twerks_candy,Twerks,100,item,twerks_candy.png,false,true,true,nil,Some delicious candy :O
+lockpick,lockpick,Lockpick,300,item,lockpick.png,false,true,true,table: 0x55a5a8fdab60,Very useful if you lose your keys a lot.. or if you want to use it for something else...
+aluminumoxide,aluminumoxide,Aluminium Powder,100,item,aluminumoxide.png,false,false,false,nil,Some powder to mix with
+copper,copper,Copper,100,item,copper.png,false,false,false,nil,Nice piece of metal that you can probably use for something
+plastic,plastic,Plastic,100,item,plastic.png,false,false,false,nil,RECYCLE! - Greta Thunberg 2019
+weed_nutrition,weed_nutrition,Plant Fertilizer,2000,item,weed_nutrition.png,false,true,true,nil,Plant nutrition
+weed_ak47_seed,weed_ak47_seed,AK47 Seed,0,item,weed_seed.png,false,true,true,nil,A weed seed of AK47
+weed_amnesia_seed,weed_amnesia_seed,Amnesia Seed,0,item,weed_seed.png,false,true,true,nil,A weed seed of Amnesia
+weed_skunk_seed,weed_skunk_seed,Skunk Seed,0,item,weed_seed.png,false,true,true,nil,A weed seed of Skunk
+weed_og-kush,weed_og-kush,OGKush 2g,200,item,weed_baggy.png,false,true,false,nil,A weed bag with 2g OG Kush
+weed_purple-haze,weed_purple-haze,Purple Haze 2g,200,item,weed_baggy.png,false,true,false,nil,A weed bag with 2g Purple Haze
+meth,meth,Meth,100,item,meth_baggy.png,false,true,true,nil,A baggie of Meth
+firework3,firework3,WipeOut,1000,item,firework3.png,false,true,true,nil,Fireworks
+weed_brick,weed_brick,Weed Brick,1000,item,weed_brick.png,false,false,true,nil,1KG Weed Brick to sell to large customers.
+cokebaggy,cokebaggy,Bag of Coke,0,item,cocaine_baggy.png,false,true,true,nil,To get happy real quick
+joint,joint,Joint,0,item,joint.png,false,true,true,nil,Sidney would be very proud at you
+sawnoffshotgun_luxuryfinish,sawnoffshotgun_luxuryfinish,Shotgun Finish,1000,item,pistol_suppressor.png,false,true,true,nil,Sawn Off Shotgun Luxury Finish
+grapejuice,grapejuice,Grape Juice,200,item,grapejuice.png,false,true,false,nil,Grape juice is said to be healthy
+walkstick,walkstick,Walking Stick,1000,item,walkstick.png,false,true,true,nil,Walking stick for ya'll grannies out there.. HAHA
+whiskey,whiskey,Whiskey,500,item,whiskey.png,false,true,true,nil,For all the thirsty out there
+heavypistol_grip,heavypistol_grip,Pistol Grip,1000,item,pistol_suppressor.png,false,true,true,nil,Heavy Pistol Grip Attachment
+kurkakola,kurkakola,Cola,500,item,cola.png,false,true,true,nil,For all the thirsty out there
+laptop,laptop,Laptop,4000,item,laptop.png,false,false,true,nil,Expensive laptop
+snikkel_candy,snikkel_candy,Snikkel,100,item,snikkel_candy.png,false,true,true,nil,Some delicious candy :O
+weapon_autoshotgun,weapon_autoshotgun,Auto Shotgun,1000,weapon,weapon_autoshotgun.png,true,false,nil,nil,A shotgun capable of rapid continous fire
+emp_ammo,emp_ammo,EMP Ammo,200,item,emp_ammo.png,false,true,true,nil,Ammo for EMP Launcher
+assaultshotgun_extendedclip,assaultshotgun_extendedclip,Shotgun EXT Clip,1000,item,pistol_extendedclip.png,false,true,true,nil,Assault Shotgun Extended Clip
+mastercard,mastercard,Master Card,0,item,mastercard.png,true,true,false,nil,MasterCard can be used via ATM
+weapontint_pink,weapontint_pink,Pink Tint,1000,item,weapontint_pink.png,false,true,true,nil,Pink Weapon Tint
+driver_license,driver_license,Drivers License,0,item,driver_license.png,true,true,false,nil,Permit to show you can drive a vehicle
+security_card_02,security_card_02,Security Card B,0,item,security_card_02.png,false,true,true,nil,A security card... I wonder what it goes to
+snp_ammo,snp_ammo,Sniper ammo,1000,item,rifle_ammo.png,false,true,true,nil,Ammo for Sniper Rifles
+rifle_ammo,rifle_ammo,Rifle ammo,1000,item,rifle_ammo.png,false,true,true,nil,Ammo for Rifles
+weapontint_plat,weapontint_plat,Platinum Tint,1000,item,weapontint_plat.png,false,true,true,nil,Platinum Weapon Tint
+police_stormram,police_stormram,Stormram,18000,item,police_stormram.png,false,true,true,nil,A nice tool to break into doors
+weapontint_lspd,weapontint_lspd,LSPD Tint,1000,item,weapontint_lspd.png,false,true,true,nil,LSPD Weapon Tint
+weaponlicense,weaponlicense,Weapon License,0,item,weapon_license.png,true,true,true,nil,Weapon License
+firework4,firework4,Weeping Willow,1000,item,firework4.png,false,true,true,nil,Fireworks
+heavysniper_defaultclip,heavysniper_defaultclip,Sniper Clip,1000,item,pistol_extendedclip.png,false,true,true,nil,Heavy Sniper Default Clip
+weapon_rpg,weapon_rpg,RPG,1000,weapon,weapon_rpg.png,true,false,nil,nil,A rocket-propelled grenade launcher
+pistol50_extendedclip,pistol50_extendedclip,Pistol EXT Clip,1000,item,pistol_extendedclip.png,false,true,true,nil,.50 Pistol Extended Clip
+weapon_pumpshotgun,weapon_pumpshotgun,Pump Shotgun,1000,weapon,weapon_pumpshotgun.png,true,false,nil,nil,A pump-action smoothbore gun for firing small shot at short range
+phone,phone,Phone,700,item,phone.png,true,false,false,nil,Neat phone ya got there
+marksmanrifle_defaultclip,marksmanrifle_defaultclip,Sniper Clip,1000,item,pistol_extendedclip.png,false,true,true,nil,Marksman Rifle Default Clip
+appistol_defaultclip,appistol_defaultclip,Pistol Clip,1000,item,pistol_extendedclip.png,false,true,true,nil,APPistol Default Clip
+weapon_heavysniper,weapon_heavysniper,Heavy Sniper,1000,weapon,weapon_heavysniper.png,true,false,nil,nil,An upgraded high-precision, long-range rifle
+binoculars,binoculars,Binoculars,600,item,binoculars.png,false,true,true,nil,Sneaky Breaky...
+carbinerifle_extendedclip,carbinerifle_extendedclip,Rifle EXT Clip,1000,item,pistol_extendedclip.png,false,true,true,nil,Carbine Rifle Extended Clip
+rifle_grip,rifle_grip,Rifle Grip,1000,item,pistol_suppressor.png,false,true,true,nil,Rifle Grip Attachment
+heavyshotgun_defaultclip,heavyshotgun_defaultclip,Shotgun Clip,1000,item,pistol_extendedclip.png,false,true,true,nil,Heavy Shotgun Default Clip
+assaultshotgun_defaultclip,assaultshotgun_defaultclip,Shotgun Clip,1000,item,pistol_extendedclip.png,false,true,true,nil,Assault Shotgun Default Clip
+advancedrifle_luxuryfinish,advancedrifle_luxuryfinish,Rifle Finish,1000,item,pistol_suppressor.png,false,true,true,nil,Advanced Rifle Luxury Finish
+weapon_battleaxe,weapon_battleaxe,Battle Axe,1000,weapon,weapon_battleaxe.png,true,false,nil,nil,A large broad-bladed axe used in ancient warfare
+microsmg_luxuryfinish,microsmg_luxuryfinish,SMG Finish,1000,item,pistol_suppressor.png,false,true,true,nil,Micro SMG Luxury Finish
+shotgun_suppressor,shotgun_suppressor,Shotgun Suppressor,1000,item,pistol_suppressor.png,false,true,true,nil,Shotgun Suppressor Attachment
+combatpdw_drum,combatpdw_drum,SMG Drum,1000,item,rifle_drummag.png,false,true,true,nil,Combat PDW Drum
+machinepistol_drum,machinepistol_drum,SMG Drum,1000,item,rifle_drummag.png,false,true,true,nil,Machine Pistol Drum
+machinepistol_defaultclip,machinepistol_defaultclip,SMG Clip,1000,item,pistol_extendedclip.png,false,true,true,nil,Machine Pistol Default Clip
+smg_drum,smg_drum,SMG Drum,1000,item,rifle_drummag.png,false,true,true,nil,SMG Drum
+smg_extendedclip,smg_extendedclip,SMG EXT Clip,1000,item,pistol_extendedclip.png,false,true,true,nil,SMG Extended Clip
+smg_defaultclip,smg_defaultclip,SMG Clip,1000,item,pistol_extendedclip.png,false,true,true,nil,SMG Default Clip
+microsmg_extendedclip,microsmg_extendedclip,SMG EXT Clip,1000,item,pistol_extendedclip.png,false,true,true,nil,Micro SMG Extended Clip
+weapon_carbinerifle_mk2,weapon_carbinerifle_mk2,Carbine Rifle Mk II,1000,weapon,weapon_carbinerifle_mk2.png,true,true,nil,nil,Carbine Rifle MK2
+vintagepistol_defaultclip,vintagepistol_defaultclip,Pistol Clip,1000,item,pistol_extendedclip.png,false,true,true,nil,Vintage Pistol Default Clip
+heavypistol_defaultclip,heavypistol_defaultclip,Pistol Clip,1000,item,pistol_extendedclip.png,false,true,true,nil,Heavy Pistol Default Clip
+weapon_marksmanrifle_mk2,weapon_marksmanrifle_mk2,Marksman Rifle Mk II,1000,weapon,weapon_marksmanrifle_mk2.png,true,true,nil,nil,Weapon Marksmanrifle MK2
+snspistol_grip,snspistol_grip,Pistol Grip,1000,item,pistol_suppressor.png,false,true,true,nil,SNS Pistol Grip Attachment
+snspistol_defaultclip,snspistol_defaultclip,Pistol Clip,1000,item,pistol_extendedclip.png,false,true,true,nil,SNS Pistol Default Clip
+revolver_vipvariant,revolver_vipvariant,Pistol Variant,1000,item,pistol_extendedclip.png,false,true,true,nil,Revovler Variant
+pistol50_luxuryfinish,pistol50_luxuryfinish,Pistol Finish,1000,item,pistol_suppressor.png,false,true,true,nil,.50 Pistol Luxury Finish
+pistol_suppressor,pistol_suppressor,Pistol Suppressor,1000,item,pistol_suppressor.png,false,true,true,nil,Pistol Suppressor Attachment
+tablet,tablet,Tablet,2000,item,tablet.png,false,false,true,nil,Expensive tablet
+weapon_pipebomb,weapon_pipebomb,Pipe Bomb,1000,weapon,weapon_pipebomb.png,true,false,nil,nil,A homemade bomb, the components of which are contained in a pipe
+gatecrack,gatecrack,Gatecrack,0,item,usb_device.png,false,false,true,nil,Handy software to tear down some fences
+weapon_bzgas,weapon_bzgas,BZ Gas,1000,weapon,weapon_bzgas.png,true,false,nil,nil,A cannister of gas that causes extreme pain
+weapon_grenadelauncher_smoke,weapon_grenadelauncher_smoke,Smoke Grenade Launcher,1000,weapon,weapon_smokegrenade.png,true,false,nil,nil,A bomb that produces a lot of smoke when it explodes
+weapon_mg,weapon_mg,Machinegun,1000,weapon,weapon_mg.png,true,false,nil,nil,An automatic gun that fires bullets in rapid succession for as long as the trigger is pressed
+weapon_dbshotgun,weapon_dbshotgun,Double-barrel Shotgun,1000,weapon,weapon_dbshotgun.png,true,false,nil,nil,A shotgun with two parallel barrels, allowing two single shots to be fired in quick succession
+weapon_assaultrifle,weapon_assaultrifle,Assault Rifle,1000,weapon,weapon_assaultrifle.png,true,false,nil,nil,A rapid-fire, magazine-fed automatic rifle designed for infantry use
+weapon_combatpdw,weapon_combatpdw,Combat PDW,1000,weapon,weapon_combatpdw.png,true,false,nil,nil,A combat version of a handheld lightweight machine gun
+weapon_dagger,weapon_dagger,Dagger,1000,weapon,weapon_dagger.png,true,false,nil,nil,A short knife with a pointed and edged blade, used as a weapon
+weapon_machete,weapon_machete,Machete,1000,weapon,weapon_machete.png,true,false,nil,nil,A broad, heavy knife used as a weapon
+weapon_bread,weapon_bread,Baquette,1000,weapon,baquette.png,true,false,nil,nil,Bread...?
+weapon_pistol_mk2,weapon_pistol_mk2,Pistol Mk II,1000,weapon,weapon_pistol_mk2.png,true,false,nil,nil,An upgraded small firearm designed to be held in one hand
+weapon_pistol50,weapon_pistol50,Pistol .50,1000,weapon,weapon_pistol50.png,true,false,nil,nil,A .50 caliber firearm designed to be held with both hands

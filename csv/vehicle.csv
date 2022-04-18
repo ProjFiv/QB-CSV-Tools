@@ -1,0 +1,490 @@
+vehicle, name, brand, model, price, category, hash, shop
+blista2,Blista Compact,Dinka,blista2,18950,compacts,blista2,pdm
+dubsta2,Dubsta Luxuary,Benefactor,dubsta2,19500,suvs,dubsta2,pdm
+stinger,Stinger,Grotti,stinger,39500,sportsclassic,stinger,pdm
+moonbeam,Moonbeam,Declasse,moonbeam,13000,vans,moonbeam,pdm
+supervolito,SuperVolito,Buckingham,supervolito,52000,helicopters,supervolito,air
+deathbike2,deathbike2,deathbike,deathbike2,30000,motorcycles,deathbike2,pdm
+hermes,Hermes,Albany,hermes,535000,muscle,hermes,pdm
+fugitive,Fugitive,Cheval,fugitive,20000,sedans,fugitive,pdm
+sanctus,Sanctus,LCC,sanctus,35000,motorcycles,sanctus,pdm
+pcj,PCJ-600,Shitzu,pcj,15000,motorcycles,pcj,pdm
+ellie,Ellie,Vapid,ellie,42250,muscle,ellie,pdm
+cavalcade2,Cavalcade,Albany,cavalcade2,16500,suvs,cavalcade2,pdm
+felon2,Felon GT,Lampadati,felon2,37000,coupes,felon2,pdm
+asterope,Asterope,Karin,asterope,11000,sedans,asterope,pdm
+deviant,Deviant,Schyster,deviant,70000,muscle,deviant,pdm
+avarus,Avarus,LCC,avarus,20000,motorcycles,avarus,pdm
+nemesis,Nemesis,Principe,nemesis,20000,motorcycles,nemesis,pdm
+issi2,Issi,Weeny,issi2,7000,compacts,issi2,pdm
+phoenix,Phoenix,Imponte,phoenix,65000,muscle,phoenix,pdm
+imperator3,imperator3,Vapid,imperator3,95000,muscle,imperator3,pdm
+toros,Toros,Pegassi,toros,65000,suvs,toros,pdm
+blade,Blade,Vapid,blade,23500,muscle,blade,pdm
+defiler,Defiler,Shitzu,defiler,30000,motorcycles,defiler,pdm
+blazer2,Blazer Lifeguard,Nagasaki,blazer2,7000,offroad,blazer2,pdm
+esskey,Esskey,Pegassi,esskey,12000,motorcycles,esskey,pdm
+mesa3,Mesa Merryweather,Canis,mesa3,400000,offroad,mesa3,pdm
+vortex,Vortex,Pegassi,vortex,31000,motorcycles,vortex,pdm
+club,Club,BF,club,8000,compacts,club,pdm
+sabregt2,Sabre GT,Declasse,sabregt2,26500,muscle,sabregt2,pdm
+wolfsbane,Wolfsbane,Western,wolfsbane,14000,motorcycles,wolfsbane,pdm
+nimbus,Nimbus,Buckingham,nimbus,45000,planes,nimbus,air
+stanier,Stanier,Vapid,stanier,19000,sedans,stanier,pdm
+riata,Riata,Vapid,riata,380000,offroad,riata,pdm
+baller5,Baller LE (Armored),Gallivanter,baller5,78000,suvs,baller5,pdm
+coquette,Coquette,Invetero,coquette,145000,sports,coquette,luxury
+vader,Vader,Shitzu,vader,7200,motorcycles,vader,pdm
+banshee,Banshee,Bravado,banshee,56000,sports,banshee,luxury
+alphaz1,Alpha-Z1,Buckingham,alphaz1,45000,planes,alphaz1,air
+fcr2,FCR 1000 Custom,Pegassi,fcr2,19000,motorcycles,fcr2,pdm
+bullet,Bullet,Vapid,bullet,120000,super,bullet,luxury
+dukes3,Beater Dukes,Imponte,dukes3,45000,muscle,dukes3,pdm
+jackal,Jackal,Ocelot,jackal,19000,coupes,jackal,pdm
+minivan,Minivan,Vapid,minivan,7000,vans,minivan,pdm
+krieger,Krieger,Benefactor,krieger,222000,super,krieger,luxury
+monroe,Monroe,Pegassi,monroe,115000,sportsclassics,monroe,pdm
+btype3,Roosevelt Valor,Albany,btype3,63000,sportsclassics,btype3,pdm
+vestra,Vestra,Buckingham,vestra,45000,planes,vestra,air
+retinue,Retinue,Vapid,retinue,32000,sportsclassic,retinue,pdm
+shamal,Shamal,Buckingham,shamal,45000,planes,shamal,air
+impaler,impaler,Vapid,impaler,95000,muscle,impaler,pdm
+dilettante,Dilettante,Karin,dilettante,9000,compacts,dilettante,pdm
+fagaloa,Fagaloa,Vulcar,fagaloa,13000,sportsclassics,fagaloa,pdm
+seasparrow2,Sparrow,Unknown,seasparrow2,52000,helicopters,seasparrow2,air
+velum,Velum,Unknown,velum,45000,planes,velum,air
+speeder,Speeder,Pegassi,speeder,40000,boats,speeder,boats
+carbonrs,Carbon RS,Nagasaki,carbonrs,22000,motorcycles,carbonrs,pdm
+jetmax,Shitzu,Jetmax,jetmax,40000,boats,jetmax,boats
+sandking,Sandking,Annis,sandking,25000,offroad,sandking,pdm
+stunt,Mallard,Unknown,stunt,45000,planes,stunt,air
+luxor2,Luxor Deluxe,Buckingham,luxor2,45000,planes,luxor2,air
+suntrap,Shitzu,Suntrap,suntrap,40000,boats,suntrap,boats
+luxor,Luxor,Buckingham,luxor,45000,planes,luxor,air
+bagger,Bagger,WMC,bagger,13500,motorcycles,bagger,pdm
+weevil,Weevil,BF,weevil,9000,compacts,weevil,pdm
+manchez,Manchez,Maibatsu,manchez,8300,motorcycles,manchez,pdm
+verus,Verus,Dinka,verus,20000,offroad,verus,pdm
+tribike3,Tri Bike 3,Bike,tribike3,520,cycles,tribike3,pdm
+baller,Baller,Gallivanter,baller,22000,suvs,baller,pdm
+comet2,Comet,Pfister,comet2,130000,sports,comet2,luxury
+winky,Winky,Vapid,winky,10000,offroad,winky,pdm
+faggio2,Faggio,Pegassi,faggio2,1900,motorcycles,faggio2,pdm
+rt3000,RT3000,Dinka,rt3000,65000,sports,rt3000,luxury
+issi6,Issi Arena,Weeny,issi6,80000,compacts,issi6,pdm
+faction2,Faction Rider,Willard,faction2,19000,muscle,faction2,pdm
+stalion,Stallion,Declasse,stalion,33000,muscle,stalion,pdm
+dominator2,Pißwasser Dominator,Vapid,dominator2,50000,muscle,dominator2,pdm
+marquis,Marquis,Dinka,marquis,40000,boats,marquis,boats
+volatus,Volatus,Buckingham,volatus,52000,helicopters,volatus,air
+supervolito2,SuperVolito Carbon,Buckingham,supervolito2,52000,helicopters,supervolito2,air
+seasparrow3,Sparrow,Unknown,seasparrow3,52000,helicopters,seasparrow3,air
+penumbra2,Penumbra FF,Maibatsu,penumbra2,30000,sports,penumbra2,luxury
+seasparrow,Sea Sparrow,Unknown,seasparrow,52000,helicopters,seasparrow,air
+seven70,Seven-70,Dewbauchee,seven70,140000,sports,seven70,luxury
+seminole,Seminole,Canis,seminole,20000,suvs,seminole,pdm
+futo,Futo,Karin,futo,17500,coupes,futo,pdm
+neon,Neon,Pfister,neon,220000,sports,neon,luxury
+daemon,Daemon,WMC,daemon,14000,motorcycles,daemon,pdm
+carbonizzare,Carbonizzare,Grotti,carbonizzare,155000,sports,carbonizzare,luxury
+rumpo3,Rumpo Custom,Bravado,rumpo3,19500,vans,rumpo3,pdm
+oracle2,Oracle XS,Übermacht,oracle2,28000,coupes,oracle2,pdm
+thrax,Thrax,Truffade,thrax,180000,super,thrax,luxury
+adder,Adder,Truffade,adder,280000,super,adder,luxury
+swift,Swift,Buckingham,swift,52000,helicopters,swift,air
+manana2,Manana Custom,Albany,manana2,24000,muscle,manana2,pdm
+maverick,Maverick,Unknown,maverick,52000,helicopters,maverick,air
+ruffian,Ruffian,Pegassi,ruffian,25000,motorcycles,ruffian,pdm
+frogger2,Frogger,Unknown,frogger2,52000,helicopters,frogger2,air
+penumbra,Penumbra,Maibatsu,penumbra,22000,sports,penumbra,luxury
+frogger,Frogger,Unknown,frogger,52000,helicopters,frogger,air
+premier,Premier,Declasse,premier,12000,sedans,premier,pdm
+buzzard2,Buzzard,Unknown,buzzard2,52000,helicopters,buzzard2,air
+rhapsody,Rhapsody,Declasse,rhapsody,10000,compacts,rhapsody,pdm
+moonbeam2,Moonbeam Custom,Declasse,moonbeam2,15000,vans,moonbeam2,pdm
+trophytruck,Trophy Truck,Annis,trophytruck,60000,offroad,trophytruck,pdm
+blazer3,Blazer Hot Rod,Nagasaki,blazer3,7000,offroad,blazer3,pdm
+asbo,Asbo,Maxwell,asbo,4000,compacts,asbo,pdm
+turismor,Turismo R,Grotti,turismor,140000,super,turismor,luxury
+seminole2,Seminole Frontier,Canis,seminole2,13000,suvs,seminole2,pdm
+stromberg,Stromberg,Ocelot,stromberg,80000,sportsclassic,stromberg,pdm
+shinobi,Shinobi,Nagasaki,shinobi,25000,motorcycles,shinobi,pdm
+toro,Toro,Lampadati,toro,40000,boats,toro,boats
+voodoo,Voodoo,Declasse,voodoo,13000,muscle,voodoo,pdm
+buccaneer,Buccaneer,Albany,buccaneer,22500,muscle,buccaneer,pdm
+longfin,Longfin,Shitzu,longfin,40000,boats,longfin,boats
+tribike,Tri Bike,Bike,tribike,500,cycles,tribike,pdm
+gauntlet5,Gauntlet Classic Custom,Bravado,gauntlet5,120000,muscle,gauntlet5,pdm
+speeder2,Speeder,Pegassi,speeder2,40000,boats,speeder2,boats
+issi5,Issi Arena,Weeny,issi5,80000,compacts,issi5,pdm
+sadler,Sadler,Vapid,sadler,20000,offroad,sadler,pdm
+dinghy4,Nagasaki,Dinghy,dinghy4,40000,boats,dinghy4,boats
+dinghy3,Nagasaki,Dinghy,dinghy3,40000,boats,dinghy3,boats
+dinghy2,Nagasaki,Dinghy,dinghy2,40000,boats,dinghy2,boats
+virgo2,Virgo Custom Classic,Dundreary,virgo2,21000,muscle,virgo2,pdm
+sheava,ETR1,Emperor,sheava,220000,super,sheava,luxury
+dinghy,Nagasaki,Dinghy,dinghy,40000,boats,dinghy,boats
+astron,Pfister,Astron,astron,150000,sedans,astron,pdm
+tropic2,Shitzu,Tropic,tropic2,40000,boats,tropic2,boats
+landstalker2,Landstalker XL,Dundreary,landstalker2,26000,suvs,landstalker2,pdm
+tigon,Tigon,Lampadati,tigon,240000,super,tigon,luxury
+freecrawler,Freecrawler,Canis,freecrawler,24000,offroad,freecrawler,pdm
+issi7,Issi Sport,Weeny,issi7,100000,compacts,issi7,pdm
+imorgon,Imorgon,Overflod,imorgon,120000,sports,imorgon,luxury
+tropic,Shitzu,Tropic,tropic,40000,boats,tropic,boats
+imperator2,imperator2,Vapid,imperator2,95000,muscle,imperator2,pdm
+mammatus,Mammatus,Unknown,mammatus,45000,planes,mammatus,air
+granger2,Granger 3600LX,Declasse,granger2,221000,suvs,granger2,pdm
+coquette4,Coquette D10,Invetero,coquette4,220000,sports,coquette4,luxury
+seashark3,Seashark,Speedophile,seashark3,40000,boats,seashark3,boats
+entity2,Entity XXR,Överflöd,entity2,164000,super,entity2,luxury
+italigtb2,Itali GTB,Progen,italigtb2,250000,super,italigtb2,luxury
+seashark2,Seashark,Speedophile,seashark2,40000,boats,seashark2,boats
+deathbike,deathbike,deathbike,deathbike,30000,motorcycles,deathbike,pdm
+seashark,Seashark,Speedophile,seashark,40000,boats,seashark,boats
+cavalcade,Cavalcade,Albany,cavalcade,14000,suvs,cavalcade,pdm
+warrener,Warrener,Vulcar,warrener,4000,sedans,warrener,pdm
+havok,Havok,Nagasaki,havok,52000,helicopters,havok,air
+bmx,BMX,Bike,bmx,160,cycles,bmx,pdm
+enduro,Enduro,Dinka,enduro,5500,motorcycles,enduro,pdm
+felon,Felon,Lampadati,felon,31000,coupes,felon,pdm
+peyote,Peyote,Vapid,peyote,23500,sportsclassic,peyote,pdm
+ratbike,Rat Bike,Western,ratbike,3000,motorcycles,ratbike,pdm
+chino2,Chino Luxe,Vapid,chino2,8000,muscle,chino2,pdm
+sanchez,Sanchez Livery,Maibatsu,sanchez,5300,motorcycles,sanchez,pdm
+massacro2,Massacro Racecar,Dewbauchee,massacro2,80000,sports,massacro2,luxury
+warrener2,Warrener HKR,Vulcar,warrener2,30000,sedans,warrener2,pdm
+speedo,Speedo,Vapid,speedo,10000,vans,speedo,pdm
+italigto,Itali GTO,Progen,italigto,260000,sports,italigto,luxury
+virgo,Virgo,Albany,virgo,22000,muscle,virgo,pdm
+mule5,Mule,Box Truck,mule5,221000,vans,mule5,pdm
+granger,Granger,Declasse,granger,22000,suvs,granger,pdm
+vagner,Vagner,Dewbauchee,vagner,1660000,super,vagner,luxury
+blista,Blista,Dinka,blista,13000,compacts,blista,pdm
+exemplar,Exemplar,Dewbauchee,exemplar,40000,coupes,exemplar,pdm
+youga4,Youga,Bravado,youga4,85000,vans,youga4,pdm
+rancherxl,Rancher XL,Declasse,rancherxl,24000,offroad,rancherxl,pdm
+youga2,Youga Classic,Bravado,youga2,14500,vans,youga2,pdm
+sabregt,Sabre Turbo,Declasse,sabregt,23000,muscle,sabregt,pdm
+youga,Youga,Bravado,youga,8000,vans,youga,pdm
+scorcher,Scorcher,Bike,scorcher,280,cycles,scorcher,pdm
+youga3,Youga Classic 4x4,Bravado,youga3,15000,vans,youga3,pdm
+surfer,Surfer,BF,surfer,9000,vans,surfer,pdm
+issi3,Issi Classic,Weeny,issi3,5000,compacts,issi3,pdm
+manchez2,Manchez,Maibatsu,manchez2,14000,motorcycles,manchez2,pdm
+speedo4,Speedo Custom,Vapid,speedo4,15000,vans,speedo4,pdm
+tampa2,Drift Tampa,Declasse,tampa2,80000,muscle,tampa2,pdm
+kalahari,Kalahari,Canis,kalahari,14000,offroad,kalahari,pdm
+slamtruck,Slam Truck,Vapid,slamtruck,100000,muscle,slamtruck,pdm
+rapidgt3,Rapid GT,Dewbauchee,rapidgt3,90000,sportsclassics,rapidgt3,pdm
+oracle,Oracle,Ubermacht,oracle,22000,sedans,oracle,pdm
+swift2,Swift,Buckingham,swift2,52000,helicopters,swift2,air
+tailgater2,Tailgater S,Obey,tailgater2,51000,sedans,tailgater2,pdm
+oppressor,Oppressor,Pegassi,oppressor,9999999,super,oppressor,luxury
+rebel2,Rebel,Annis,rebel2,20000,offroad,rebel2,pdm
+minivan2,Minivan Custom,Vapid,minivan2,10000,vans,minivan2,pdm
+howard,Howard NX-25,Buckingham,howard,45000,planes,howard,air
+s80,S80RR,Annis,s80,205000,super,s80,luxury
+journey,Journey,Zirconium,journey,6500,vans,journey,pdm
+rumpo,Rumpo,Bravado,rumpo,9000,vans,rumpo,pdm
+pfister811,811,Pfister,pfister811,220000,super,pfister811,luxury
+burrito3,Burrito,Declasse,burrito3,4000,vans,burrito3,pdm
+schwarzer,Schwartzer,Benefactor,schwarzer,47000,sports,schwarzer,luxury
+bobcatxl,Bobcat XL Open,Vapid,bobcatxl,13500,vans,bobcatxl,pdm
+emerus,Emerus,Progen,emerus,220000,super,emerus,luxury
+yosemite,Yosemite,Declasse,yosemite,19500,muscle,yosemite,pdm
+drafter,8F Drafter,Obey,drafter,80000,sports,drafter,luxury
+cog55,Cognoscenti 55,Enus,cog55,22000,sedans,cog55,pdm
+comet3,Comet Retro Custom,Pfister,comet3,175000,sports,comet3,luxury
+banshee2,Banshee 900R,Bravado,banshee2,120000,super,banshee2,luxury
+xa21,XA-21,Ocelot,xa21,180000,super,xa21,luxury
+voltic2,Rocket Voltic,Coil,voltic2,9830400,super,voltic2,luxury
+akuma,Akuma,Dinka,akuma,55000,motorcycles,akuma,pdm
+prototipo,X80 Proto,Grotti,prototipo,235000,super,prototipo,luxury
+voltic,Voltic,Coil,voltic,120000,super,voltic,luxury
+stalion2,Stallion Burgershot,Declasse,stalion2,40000,muscle,stalion2,pdm
+sultanrs,Sultan RS,Karin,sultanrs,76500,sports,sultanrs,luxury
+hakuchou2,Hakuchou Drag,Shitzu,hakuchou2,45000,motorcycles,hakuchou2,pdm
+elegy,Elegy Retro Custom,Annis,elegy,145000,sports,elegy,luxury
+vacca,Vacca,Pegassi,vacca,105000,super,vacca,luxury
+tyrus,Tyrus,Progen,tyrus,230000,super,tyrus,luxury
+vectre,Emperor Vectre,Emperor,vectre,80000,sports,vectre,luxury
+primo,Primo,Albany,primo,5000,sedans,primo,pdm
+cyclone,Cyclone,Coil,cyclone,300000,super,cyclone,luxury
+deluxo,Deluxo,Imponte,deluxo,55000,sportsclassic,deluxo,pdm
+pigalle,Pigalle,Lampadati,pigalle,92000,sportsclassics,pigalle,pdm
+vindicator,Vindicator,Dinka,vindicator,19000,motorcycles,vindicator,pdm
+ignus,Ignus,Pegassi,ignus,1120000,coupes,ignus,pdm
+tyrant,Tyrant, Överflöd,tyrant,2100000,super,tyrant,luxury
+tezeract,Tezeract,Pegassi,tezeract,220000,super,tezeract,luxury
+dune,Dune Buggy,Annis,dune,14000,offroad,dune,pdm
+tempesta,Tempesta,Pegassi,tempesta,120000,super,tempesta,luxury
+taipan,Taipan,Cheval,taipan,1850000,super,taipan,luxury
+gauntlet,Gauntlet,Bravado,gauntlet,28500,muscle,gauntlet,pdm
+mamba,Mamba,Declasse,mamba,140000,sportsclassics,mamba,pdm
+gauntlet4,Gauntlet Hellfire,Bravado,gauntlet4,80000,muscle,gauntlet4,pdm
+dukes,Dukes,Imponte,dukes,23500,muscle,dukes,pdm
+t20,T20,Progen,t20,1650000,super,t20,luxury
+cogcabrio,Cognoscenti Cabrio,Enus,cogcabrio,30000,coupes,cogcabrio,pdm
+visione,Visione,Grotti,visione,750000,sports,visione,luxury
+slamvan,Slam Van,Vapid,slamvan,30000,muscle,slamvan,pdm
+sc1,SC1,Übermacht,sc1,90000,super,sc1,luxury
+zion,Zion,Übermacht,zion,22000,coupes,zion,pdm
+zeno,Zeno,Overflod,zeno,1350000,coupes,zeno,pdm
+retinue2,Retinue MKII,Vapid,retinue2,38000,sportsclassic,retinue2,pdm
+ratloader2,ratloader2,Ratloader2,ratloader2,20000,muscle,ratloader2,pdm
+reaper,Reaper,Pegassi,reaper,100000,super,reaper,luxury
+cliffhanger,Cliffhanger,Western,cliffhanger,28500,motorcycles,cliffhanger,pdm
+rapidgt2,Rapid GT Convertible,Dewbauchee,rapidgt2,92000,sports,rapidgt2,luxury
+gburrito2,Burrito Custom,Declasse,gburrito2,11500,vans,gburrito2,pdm
+dynasty,Dynasty,Weeny,dynasty,25000,sportsclassic,dynasty,pdm
+penetrator,Penetrator,Ocelot,penetrator,130000,super,penetrator,luxury
+schlagen,Schlagen GT,Benefactor,schlagen,160000,sports,schlagen,luxury
+osiris,Osiris,Pegassi,osiris,220000,super,osiris,luxury
+nero2,Nero Custom,Truffade,nero2,260000,super,nero2,luxury
+nero,Nero,Truffade,nero,200000,super,nero,luxury
+windsor2,Windsor Drop,Enus,windsor2,34000,coupes,windsor2,pdm
+le7b,RE-7B,Annis,le7b,260000,super,le7b,luxury
+italigtb,Itali GTB,Progen,italigtb,170000,super,italigtb,luxury
+infernus,Infernus,Pegassi,infernus,235000,super,infernus,luxury
+dominator7,Dominator ASP,Vapid,dominator7,110000,muscle,dominator7,pdm
+bestiagts,Bestia GTS,Grotti,bestiagts,37000,sports,bestiagts,luxury
+furia,Furia,Grotti,furia,230000,super,furia,luxury
+fmj,FMJ,Vapid,fmj,125000,super,fmj,luxury
+bison,Bison,Bravado,bison,18000,vans,bison,pdm
+revolter,Revolter,Ubermacht,revolter,95000,sports,revolter,luxury
+entityxf,Entity XF,Överflöd,entityxf,180000,super,entityxf,luxury
+cheetah,Cheetah,Grotti,cheetah,214000,super,cheetah,luxury
+zentorno,Zentorno,Pegassi,zentorno,340000,super,zentorno,luxury
+jb700,JB 700,Dewbauchee,jb700,240000,sportsclassic,jb700,pdm
+impaler4,impaler4,Vapid,impaler4,95000,muscle,impaler4,pdm
+buffalo,Buffalo,Bravado,buffalo,18750,sports,buffalo,luxury
+chimera,Chimera,Nagasaki,chimera,21000,motorcycles,chimera,pdm
+dilettante2,Dilettante Patrol,Karin,dilettante2,12000,compacts,dilettante2,pdm
+previon,Previon,Karin,previon,149000,coupes,previon,pdm
+prairie,Prairie,Bollokan,prairie,30000,compacts,prairie,pdm
+btype,Roosevelt,Albany,btype,75000,sportsclassics,btype,pdm
+surge,Surge,Cheval,surge,20000,sedans,surge,pdm
+toreador,Toreador,Pegassi,toreador,50000,sportsclassic,toreador,pdm
+comet7,Comet,S2 Cabrio,comet7,25000,sedans,comet7,pdm
+cheburek,Cheburek,Rune,cheburek,7000,sportsclassic,cheburek,pdm
+sovereign,Sovereign,WMC,sovereign,8000,motorcycles,sovereign,pdm
+ztype,Z-Type,Truffade,ztype,270000,sportsclassics,ztype,pdm
+dodo,Dodo,Mammoth,dodo,45000,planes,dodo,air
+faction,Faction,Willard,faction,17000,muscle,faction,pdm
+viseris,Viseris,Lampadati,viseris,210000,sportsclassic,viseris,pdm
+savestra,Savestra,Annis,savestra,67000,sportsclassic,savestra,pdm
+picador,Picador,Cheval,picador,20000,muscle,picador,pdm
+tornado5,Tornado Custom,Declasse,tornado5,22000,sportsclassic,tornado5,pdm
+tornado2,Tornado Gang,Declasse,tornado2,22000,sportsclassic,tornado2,pdm
+ninef,9F,Obey,ninef,95000,sports,ninef,luxury
+cinquemila,Lampadati,Cinquemila,cinquemila,125000,sedans,cinquemila,pdm
+hustler,Hustler,Vapid,hustler,95000,muscle,hustler,pdm
+sultan,Sultan,Karin,sultan,50000,sports,sultan,luxury
+serrano,Serrano,Benefactor,serrano,48000,suvs,serrano,pdm
+toro2,Toro,Lampadati,toro2,40000,boats,toro2,boats
+caracara2,Caracara 4x4,Vapid,caracara2,80000,offroad,caracara2,pdm
+gresley,Gresley,Bravado,gresley,25000,suvs,gresley,pdm
+turismo2,Turismo Classic,Grotti,turismo2,170000,sportsclassic,turismo2,pdm
+streiter,Streiter,Benefactor,streiter,40000,sports,streiter,luxury
+gt500,GT500,Grotti,gt500,130000,sportsclassics,gt500,pdm
+squalo,Squalo,Shitzu,squalo,40000,boats,squalo,boats
+stryder,Stryder,Nagasaki,stryder,50000,motorcycles,stryder,pdm
+nebula,Nebula,Vulcar,nebula,22000,sportsclassic,nebula,pdm
+michelli,Michelli GT,Lampadati,michelli,30000,sportsclassic,michelli,pdm
+stretch,Stretch,Dundreary,stretch,19000,sedans,stretch,pdm
+manana,Manana,Albany,manana,12800,muscle,manana,pdm
+jb7002,JB 700W,Dewbauchee,jb7002,40000,sportsclassic,jb7002,pdm
+paragon,Paragon,Enus,paragon,60000,sports,paragon,luxury
+infernus2,Infernus Classic,Pegassi,infernus2,245000,sportsclassics,infernus2,pdm
+comet4,Comet Safari,Pfister,comet4,110000,sports,comet4,luxury
+velum2,Velum,Unknown,velum2,45000,planes,velum2,air
+caracara,Caracara,Vapid,caracara,60000,offroad,caracara,pdm
+cheetah2,Cheetah Classic,Grotti,cheetah2,195000,sports,cheetah2,luxury
+casco,Casco,Lampadati,casco,100000,sportsclassics,casco,pdm
+z190,190Z,Karin,z190,78000,sportsclassics,z190,pdm
+sentinel,Sentinel,Übermacht,sentinel,30000,coupes,sentinel,pdm
+bati2,Bati 801RR,Pegassi,bati2,19000,motorcycles,bati2,pdm
+brioso,Brioso R/A,Grotti,brioso,20000,compacts,brioso,pdm
+intruder,Intruder,Karin,intruder,11250,sedans,intruder,pdm
+gb200,GB 200,Vapid,gb200,140000,sports,gb200,luxury
+btype2,Franken Stange,Albany,btype2,87000,sportsclassics,btype2,pdm
+autarch,Autarch,Överflöd,autarch,224000,super,autarch,luxury
+brioso2,Brioso 300,Grotti,brioso2,12000,compacts,brioso2,pdm
+blazer4,Blazer Sport,Annis,blazer4,9250,offroad,blazer4,pdm
+fcr,FCR 1000,Pegassi,fcr,5000,motorcycles,fcr,pdm
+sultan3,Sultan Classic Custom,Karin,sultan3,56000,sports,sultan3,luxury
+neo,Neo,Vysser,neo,230000,sports,neo,luxury
+jester4,Jester RR,Dinka,jester4,240000,sports,jester4,luxury
+cypher,Cypher,Ubermacht,cypher,155000,sports,cypher,luxury
+growler,Growler,Pfister,growler,205000,sports,growler,luxury
+comet6,Comet S2,Pfister,comet6,230000,sports,comet6,luxury
+sugoi,Sugoi,Dinka,sugoi,85000,sports,sugoi,luxury
+issi4,Issi Arena,Weeny,issi4,80000,compacts,issi4,pdm
+f620,F620,Ocelot,f620,32500,coupes,f620,pdm
+glendale,Glendale,Benefactor,glendale,3400,sedans,glendale,pdm
+cruiser,Cruiser,Bike,cruiser,510,cycles,cruiser,pdm
+euros,Euros,Annis,euros,80000,sports,euros,luxury
+futo2,Futo GTX,Karin,futo2,39000,sports,futo2,luxury
+bfinjection,Bf Injection,Annis,bfinjection,9000,offroad,bfinjection,pdm
+daemon2,Daemon Custom,Western,daemon2,23000,motorcycles,daemon2,pdm
+calico,Calico GTF,Karin,calico,39000,sports,calico,luxury
+furoregt,Furore GT,Lampadati,furoregt,78000,sports,furoregt,luxury
+vagrant,Vagrant,Maxwell,vagrant,50000,offroad,vagrant,pdm
+zr350,ZR350,Annis,zr350,38000,sports,zr350,luxury
+panto,Panto,Benefactor,panto,3200,compacts,panto,pdm
+italirsx,Itali RSX,Progen,italirsx,260000,sports,italirsx,luxury
+vstr,V-STR,Albany,vstr,80000,sports,vstr,luxury
+faggio,Faggio Sport,Pegassi,faggio,2000,motorcycles,faggio,pdm
+tropos,Tropos Rallye,Lampadati,tropos,65000,sports,tropos,luxury
+kanjo,Blista Kanjo,Dinka,kanjo,12000,compacts,kanjo,pdm
+surano,Surano, Benefactor,surano,80000,sports,surano,luxury
+zion3,Zion Classic,Übermacht,zion3,45000,sportsclassic,zion3,pdm
+torero,Torero,Pegassi,torero,84000,sportsclassics,torero,pdm
+rocoto,Rocoto,Obey,rocoto,13000,suvs,rocoto,pdm
+remus,Remus,Annis,remus,48000,sports,remus,luxury
+peyote3,Peyote Custom,Vapid,peyote3,48000,sportsclassic,peyote3,pdm
+shotaro,Shotaro Concept,Nagasaki,shotaro,320000,motorcycles,shotaro,pdm
+jubilee,Jubilee,Enus,jubilee,485000,sedans,jubilee,pdm
+schafter3,Schafter V12,Benefactor,schafter3,35000,sports,schafter3,luxury
+yosemite3,Yosemite Rancher,Declasse,yosemite3,425000,offroad,yosemite3,pdm
+sentinel3,Sentinel Classic,Übermacht,sentinel3,70000,coupes,sentinel3,pdm
+vigero,Vigero,Declasse,vigero,39500,muscle,vigero,pdm
+schafter2,Schafter,Benefactor,schafter2,16000,sedans,schafter2,pdm
+ruston,Ruston,Hijak,ruston,130000,sports,ruston,luxury
+ardent,Ardent,Ocelot,ardent,30000,sportsclassics,ardent,pdm
+diablous2,Diablous Custom,Principe,diablous2,38000,motorcycles,diablous2,pdm
+imperator,imperator,Vapid,imperator,95000,muscle,imperator,pdm
+gauntlet2,Redwood Gauntlet,Bravado,gauntlet2,70000,muscle,gauntlet2,pdm
+bf400,BF400,Nagasaki,bf400,22000,motorcycles,bf400,pdm
+zion2,Zion Cabrio,Übermacht,zion2,28000,coupes,zion2,pdm
+locust,Locust,Ocelot,locust,200000,sports,locust,luxury
+stafford,Stafford,Enus,stafford,30000,sedans,stafford,pdm
+tampa,Tampa,Declasse,tampa,24500,muscle,tampa,pdm
+buffalo4,Buffalo STX,Bravado,buffalo4,345000,muscle,buffalo4,pdm
+buccaneer2,Buccaneer Rider,Albany,buccaneer2,24500,muscle,buccaneer2,pdm
+radi,Radius,Vapid,radi,18000,suvs,radi,pdm
+bifta,Bifta,Annis,bifta,15500,offroad,bifta,pdm
+impaler3,impaler3,Vapid,impaler3,95000,muscle,impaler3,pdm
+tornado,Tornado,Declasse,tornado,21000,sportsclassic,tornado,pdm
+brawler,Brawler,Annis,brawler,40000,offroad,brawler,pdm
+lynx,Lynx,Ocelot,lynx,150000,sports,lynx,luxury
+impaler2,impaler2,Vapid,impaler2,95000,muscle,impaler2,pdm
+kuruma2,kuruma2,Karin2,kuruma2,72000,sports,kuruma2,luxury
+kuruma,Kuruma,Karin,kuruma,72000,sports,kuruma,luxury
+khamelion,Khamelion,Hijak,khamelion,90000,sports,khamelion,luxury
+jester3,Jester Classic,Dinka,jester3,85000,sports,jester3,luxury
+baller3,Baller LE,Gallivanter,baller3,15000,suvs,baller3,pdm
+jester,Jester,Dinka,jester,132250,sports,jester,luxury
+jugular,Jugular,Ocelot,jugular,80000,sports,jugular,luxury
+komoda,Komoda,Lampadati,komoda,55000,sports,komoda,luxury
+flashgt,Flash GT,Vapid,flashgt,48000,sports,flashgt,luxury
+jester2,Jester Racecar,Dinka,jester2,210000,sports,jester2,luxury
+elegy2,Elegy RH8,Annis,elegy2,150000,sports,elegy2,luxury
+deveste,Deveste,Principe,deveste,234000,super,deveste,luxury
+coquette2,Coquette Classic,Invetero,coquette2,165000,sportsclassics,coquette2,pdm
+fq2,FQ2,Fathom,fq2,18500,suvs,fq2,pdm
+feltzer3,Stirling GT,Benefactor,feltzer3,115000,sportsclassics,feltzer3,pdm
+ruiner2,Ruiner 2000,Imponte,ruiner2,50000,muscle,ruiner2,pdm
+bjxl,BeeJay XL,Karin,bjxl,19000,suvs,bjxl,pdm
+buffalo2,Buffalo S,Bravado,buffalo2,24500,sports,buffalo2,luxury
+blista3,Blista Go Go Monkey,Dinka,blista3,15000,compacts,blista3,pdm
+gp1,GP1,Progen,gp1,110000,super,gp1,luxury
+alpha,Alpha,Albany,alpha,53000,sports,alpha,luxury
+dominator4,Dominator Arena,Vapid,dominator4,200000,muscle,dominator4,pdm
+specter,Specter,Dewbauchee,specter,160000,sports,specter,luxury
+deity,Deity,Enus,deity,505000,sedans,deity,pdm
+sentinel2,Sentinel XS, Übermacht,sentinel2,33000,coupes,sentinel2,pdm
+baller7,Baller ST,Gallivanter,baller7,145000,sedans,baller7,pdm
+virgo3,Virgo Custom Classic,Dundreary,virgo3,21000,muscle,virgo3,pdm
+innovation,Innovation,LLC,innovation,33500,motorcycles,innovation,pdm
+paradise,Paradise,Bravado,paradise,9000,vans,paradise,pdm
+reever,Reever,Western,reever,25000,motorcycles,reever,pdm
+washington,Washington,Albany,washington,7000,sedans,washington,pdm
+tailgater,Tailgater,Obey,tailgater,22000,sedans,tailgater,pdm
+superd,Super Diamond,Enus,superd,17000,sedans,superd,pdm
+stratum,Stratum,Zirconium,stratum,15000,sedans,stratum,pdm
+regina,Regina,Dundreary,regina,7000,sedans,regina,pdm
+primo2,Primo Custom,Albany,primo2,14500,sedans,primo2,pdm
+sandking2,Sandking SWB,Annis,sandking2,38000,offroad,sandking2,pdm
+hotknife,Hotknife,Vapid,hotknife,90000,muscle,hotknife,pdm
+clique,Clique,Vapid,clique,20000,muscle,clique,pdm
+patriot3,Patriot,Mil-Spec,patriot3,270000,sedans,patriot3,pdm
+emperor,Emperor,Albany,emperor,4250,sedans,emperor,pdm
+cognoscenti,Cognoscenti,Enus,cognoscenti,22500,sedans,cognoscenti,pdm
+dominator3,Dominator GTX,Vapid,dominator3,70000,muscle,dominator3,pdm
+dubsta,Dubsta,Benefactor,dubsta,19000,suvs,dubsta,pdm
+xls,XLS,Benefactor,xls,17000,suvs,xls,pdm
+swinger,Swinger,Ocelot,swinger,221000,sportsclassic,swinger,pdm
+rebla,Rebla GTS,Übermacht,rebla,21000,suvs,rebla,pdm
+tribike2,Tri Bike 2,Bike,tribike2,700,cycles,tribike2,pdm
+omnis,Omnis,Wow,omnis,90000,sports,omnis,luxury
+patriot,Patriot,Mammoth,patriot,21000,suvs,patriot,pdm
+diablous,Diablous,Principe,diablous,30000,motorcycles,diablous,pdm
+novak,Novak,Lampadati,novak,70000,suvs,novak,pdm
+yosemite2,Yosemite Drift,Declasse,yosemite2,55000,muscle,yosemite2,pdm
+gargoyle,Gargoyle,Western,gargoyle,32000,motorcycles,gargoyle,pdm
+asea,Asea,Declasse,asea,2500,sedans,asea,pdm
+bati,Bati 801,Pegassi,bati,24000,motorcycles,bati,pdm
+huntley,Huntley S,Enus,huntley,24500,suvs,huntley,pdm
+windsor,Windsor,Enus,windsor,27000,coupes,windsor,pdm
+habanero,Habanero,Emperor,habanero,20000,suvs,habanero,pdm
+stingergt,Stinger GT,Grotti,stingergt,70000,sportsclassics,stingergt,pdm
+nightblade,Nightblade,WMC,nightblade,23000,motorcycles,nightblade,pdm
+deathbike3,deathbike3,deathbike,deathbike3,30000,motorcycles,deathbike3,pdm
+comet5,Comet SR,Pfister,comet5,155000,sports,comet5,luxury
+landstalker,Landstalker,Dundreary,landstalker,12000,suvs,landstalker,pdm
+contender,Contender,Vapid,contender,35000,suvs,contender,pdm
+baller6,Baller LE LWB (Armored),Gallivanter,baller6,82000,suvs,baller6,pdm
+baller4,Baller LE LWB,Gallivanter,baller4,29000,suvs,baller4,pdm
+zombiea,Zombie Bobber,Western,zombiea,28000,motorcycles,zombiea,pdm
+feltzer2,Feltzer,Benefactor,feltzer2,97000,sports,feltzer2,luxury
+baller2,Baller,Gallivanter,baller2,15000,suvs,baller2,pdm
+hakuchou,Hakuchou,Shitzu,hakuchou,17000,motorcycles,hakuchou,pdm
+faction3,Faction Custom Donk,Willard,faction3,35000,muscle,faction3,pdm
+zombieb,Zombie Chopper,Western,zombieb,27000,motorcycles,zombieb,pdm
+ingot,Ingot,Vulcar,ingot,4999,sedans,ingot,pdm
+outlaw,Outlaw,Nagasaki,outlaw,15000,offroad,outlaw,pdm
+kamacho,Kamacho,Canis,kamacho,50000,offroad,kamacho,pdm
+hellion,Hellion,Annis,hellion,38000,offroad,hellion,pdm
+everon,Everon,Karin,everon,60000,offroad,everon,pdm
+dubsta3,Dubsta 6x6,Annis,dubsta3,34000,offroad,dubsta3,pdm
+massacro,Massacro,Dewbauchee,massacro,110000,sports,massacro,luxury
+chino,Chino,Vapid,chino,5000,muscle,chino,pdm
+blazer5,Blazer Aqua,Nagasaki,blazer5,40000,offroad,blazer5,pdm
+raptor,Raptor,BF,raptor,90000,sports,raptor,luxury
+peyote2,Peyote Gasser,Vapid,peyote2,40000,sportsclassic,peyote2,pdm
+blazer,Blazer,Annis,blazer,7500,offroad,blazer,pdm
+hexer,Hexer,LCC,hexer,16000,motorcycles,hexer,pdm
+lectro,Lectro,Principe,lectro,28000,motorcycles,lectro,pdm
+ninef2,9F Cabrio,Obey,ninef2,105000,sports,ninef2,luxury
+champion,Champion,Dewbauchee,champion,205000,coupes,champion,pdm
+pariah,Pariah,Ocelot,pariah,90000,sports,pariah,luxury
+schafter4,Schafter LWB,Benefactor,schafter4,21000,sports,schafter4,luxury
+zorrusso,Zorrusso,Pegassi,zorrusso,277000,super,zorrusso,luxury
+guardian,Guardian,Annis,guardian,21000,offroad,guardian,pdm
+vamos,Vamos,Declasse,vamos,30000,muscle,vamos,pdm
+tulip,Tulip,Declasse,tulip,80000,muscle,tulip,pdm
+fixter,Fixter,Bike,fixter,225,cycles,fixter,pdm
+faggio3,Faggio Mod,Pegassi,faggio3,2500,motorcycles,faggio3,pdm
+slamvan3,Slam Van Custom,Vapid,slamvan3,17000,muscle,slamvan3,pdm
+dukes2,Dukes Nightrider,Imponte,dukes2,60000,muscle,dukes2,pdm
+rapidgt,Rapid GT,Dewbauchee,rapidgt,86000,sports,rapidgt,luxury
+ruiner,Ruiner,Imponte,ruiner,29000,muscle,ruiner,pdm
+nightshade,Nightshade,Imponte,nightshade,70000,muscle,nightshade,pdm
+lurcher,Gauntlet Classic Custom,Bravado,lurcher,21000,muscle,lurcher,pdm
+gauntlet3,Classic Gauntlet,Bravado,gauntlet3,75000,muscle,gauntlet3,pdm
+slamvan2,Lost Slam Van,Vapid,slamvan2,90000,muscle,slamvan2,pdm
+dominator8,Dominator GTT,Vapid,dominator8,80000,muscle,dominator8,pdm
+dominator,Dominator,Vapid,dominator,62500,muscle,dominator,pdm
+double,Double-T,Dinka,double,28000,motorcycles,double,pdm
+glendale2,Glendale,Benefactor,glendale2,12000,sedans,glendale2,pdm
+coquette3,Coquette BlackFin,Invetero,coquette3,180000,muscle,coquette3,pdm
+trophytruck2,Trophy Truck Limited,Annis,trophytruck2,80000,offroad,trophytruck2,pdm
+thrust,Thrust,Dinka,thrust,22000,motorcycles,thrust,pdm
+sultan2,Sultan Custom,Karin,sultan2,55000,sports,sultan2,luxury
+sanchez2,Sanchez,Maibatsu,sanchez2,5300,motorcycles,sanchez2,pdm
+duster,Duster,Unknown,duster,45000,planes,duster,air
+iwagen,Obey,I-Wagen,iwagen,225000,sedans,iwagen,pdm
+mesa,Mesa,Canis,mesa,12000,offroad,mesa,pdm
+verlierer2,Verlierer,Bravado,verlierer2,90500,sports,verlierer2,luxury

@@ -1,0 +1,124 @@
+weapon, name, label, ammotype, damagereason
+weapon_sniperrifle,weapon_sniperrifle,Sniper Rifle,AMMO_SNIPER,Sniped / Picked off / Scoped
+weapon_carbinerifle,weapon_carbinerifle,Carbine Rifle,AMMO_RIFLE,Ended / Rifled / Shot down / Floored
+weapon_knuckle,weapon_knuckle,Knuckle,nil,Melee killed / Whacked / Executed / Beat down / Murdered / Battered
+weapon_grenade,weapon_grenade,Grenade,nil,Bombed / Exploded / Detonated / Blew up
+weapon_gusenberg,weapon_gusenberg,Thompson SMG,AMMO_MG,Machine gunned / Sprayed / Ruined
+weapon_hammer,weapon_hammer,Hammer,nil,Melee killed / Whacked / Executed / Beat down / Murdered / Battered
+weapon_snspistol_mk2,weapon_snspistol_mk2,SNS Pistol MK2,AMMO_PISTOL,Pistoled / Blasted / Plugged / Bust a cap in
+weapon_smg_mk2,weapon_smg_mk2,PD MP5 2,AMMO_SMG,Riddled / Drilled / Finished / Submachine Gunned
+weapon_hominglauncher,weapon_hominglauncher,Homing Launcher,AMMO_STINGER,Killed / Exploded / Obliterated / Destroyed / Erased / Annihilated
+weapon_cougar,weapon_cougar,Cougar,nil,Mauled
+weapon_exhaustion,weapon_exhaustion,Exhaustion,nil,Died
+gadget_parachute,gadget_parachute,Parachute,nil,Died
+weapon_musket,weapon_musket,Musket,AMMO_SHOTGUN,Devastated / Pulverized / Shotgunned
+weapon_combatmg_mk2,weapon_combatmg_mk2,Weapon Combatmg MK2,AMMO_MG,Machine gunned / Sprayed / Ruined
+weapon_fire,weapon_fire,Fire,nil,Torched / Flambeed / Barbecued
+weapon_assaultsmg,weapon_assaultsmg,Assault SMG,AMMO_SMG,Riddled / Drilled / Finished / Submachine Gunned
+weapon_fertilizercan,weapon_fertilizercan,Fertilizer Can,AMMO_FERTILIZERCAN,Died
+weapon_stone_hatchet,weapon_stone_hatchet,Weapon Stone Hatchet,nil,Knifed / Stabbed / Eviscerated
+weapon_heavyshotgun,weapon_heavyshotgun,Heavy Shotgun,AMMO_SHOTGUN,Devastated / Pulverized / Shotgunned
+weapon_run_over_by_car,weapon_run_over_by_car,Run Over - Vehicle,nil,Flattened / Ran over / Ran down
+weapon_firework,weapon_firework,Firework Launcher,nil,Killed / Exploded / Obliterated / Destroyed / Erased / Annihilated
+weapon_railgun,weapon_railgun,Railgun,nil,Killed / Exploded / Obliterated / Destroyed / Erased / Annihilated
+weapon_unarmed,weapon_unarmed,Fists,nil,Melee killed / Whacked / Executed / Beat down / Murdered / Battered
+weapon_wrench,weapon_wrench,Wrench,nil,Melee killed / Whacked / Executed / Beat down / Murdered / Battered
+weapon_hit_by_water_cannon,weapon_hit_by_water_cannon,Water Cannon,nil,Died
+weapon_raypistol,weapon_raypistol,Weapon Raypistol,AMMO_PISTOL,Pistoled / Blasted / Plugged / Bust a cap in
+weapon_combatpistol,weapon_combatpistol,Combat Pistol,AMMO_PISTOL,Pistoled / Blasted / Plugged / Bust a cap in
+weapon_stungun,weapon_stungun,Taser,AMMO_STUNGUN,Died
+weapon_briefcase,weapon_briefcase,Briefcase,nil,Melee killed / Whacked / Executed / Beat down / Murdered / Battered
+weapon_sawnoffshotgun,weapon_sawnoffshotgun,Sawn-off Shotgun,AMMO_SHOTGUN,Devastated / Pulverized / Shotgunned
+weapon_knife,weapon_knife,Knife,nil,Knifed / Stabbed / Eviscerated
+weapon_grenadelauncher,weapon_grenadelauncher,Grenade Launcher,AMMO_GRENADELAUNCHER,Killed / Exploded / Obliterated / Destroyed / Erased / Annihilated
+weapon_revolver,weapon_revolver,Revolver,AMMO_PISTOL,Pistoled / Blasted / Plugged / Bust a cap in
+weapon_animal,weapon_animal,Animal,nil,Mauled
+weapon_specialcarbine,weapon_specialcarbine,Special Carbine,AMMO_RIFLE,Ended / Rifled / Shot down / Floored
+weapon_flaregun,weapon_flaregun,Flare Gun,AMMO_FLARE,Died
+weapon_doubleaction,weapon_doubleaction,Double Action Revolver,AMMO_PISTOL,Pistoled / Blasted / Plugged / Bust a cap in
+weapon_bullpuprifle_mk2,weapon_bullpuprifle_mk2,Bull Puprifle MK2,AMMO_RIFLE,Ended / Rifled / Shot down / Floored
+weapon_assaultrifle,weapon_assaultrifle,Assault Rifle,AMMO_RIFLE,Ended / Rifled / Shot down / Floored
+weapon_handcuffs,weapon_handcuffs,Handcuffs,nil,Melee killed / Whacked / Executed / Beat down / Murdered / Battered
+weapon_electric_fence,weapon_electric_fence,Electric Fence,nil,Fried
+weapon_bleeding,weapon_bleeding,Bleeding,nil,Bled out
+weapon_petrolcan,weapon_petrolcan,Petrol Can,AMMO_PETROLCAN,Died
+weapon_nightstick,weapon_nightstick,Nightstick,nil,Melee killed / Whacked / Executed / Beat down / Murdered / Battered
+weapon_drowning_in_vehicle,weapon_drowning_in_vehicle,Drowning in a Vehicle,nil,Died
+weapon_bullpupshotgun,weapon_bullpupshotgun,Bullpup Shotgun,AMMO_SHOTGUN,Devastated / Pulverized / Shotgunned
+weapon_poolcue,weapon_poolcue,Poolcue,nil,Melee killed / Whacked / Executed / Beat down / Murdered / Battered
+weapon_drowning,weapon_drowning,Drowning,nil,Died
+weapon_molotov,weapon_molotov,Molotov,nil,Torched / Flambeed / Barbecued
+weapon_smokegrenade,weapon_smokegrenade,Smoke Grenade,nil,Died
+weapon_fireextinguisher,weapon_fireextinguisher,Fire Extinguisher,nil,Died
+weapon_stungun_mp,weapon_stungun_mp,Taser,AMMO_STUNGUN,Died
+weapon_bullpuprifle,weapon_bullpuprifle,Bullpup Rifle,AMMO_RIFLE,Ended / Rifled / Shot down / Floored
+weapon_flare,weapon_flare,Flare pistol,AMMO_FLARE,Died
+weapon_hazardcan,weapon_hazardcan,Weapon Hazardcan,AMMO_PETROLCAN,Died
+weapon_grenadelauncher_smoke,weapon_grenadelauncher_smoke,Smoke Grenade Launcher,AMMO_GRENADELAUNCHER,Killed / Exploded / Obliterated / Destroyed / Erased / Annihilated
+weapon_assaultshotgun,weapon_assaultshotgun,Assault Shotgun,AMMO_SHOTGUN,Devastated / Pulverized / Shotgunned
+weapon_ceramicpistol,weapon_ceramicpistol,Weapon Ceramicpistol,AMMO_PISTOL,Pistoled / Blasted / Plugged / Bust a cap in
+weapon_pipebomb,weapon_pipebomb,Pipe Bomb,nil,Bombed / Exploded / Detonated / Blew up
+weapon_snowball,weapon_snowball,Snowball,nil,Died
+weapon_proxmine,weapon_proxmine,Proxmine Grenade,nil,Bombed / Exploded / Detonated / Blew up
+weapon_stickybomb,weapon_stickybomb,C4,nil,Bombed / Exploded / Detonated / Blew up
+weapon_autoshotgun,weapon_autoshotgun,Auto Shotgun,AMMO_SHOTGUN,Devastated / Pulverized / Shotgunned
+weapon_barbed_wire,weapon_barbed_wire,Barbed Wire,nil,Prodded
+weapon_bzgas,weapon_bzgas,BZ Gas,nil,Died
+weapon_crowbar,weapon_crowbar,Crowbar,nil,Melee killed / Whacked / Executed / Beat down / Murdered / Battered
+weapon_emplauncher,weapon_emplauncher,EMP Launcher,AMMO_EMPLAUNCHER,Died
+weapon_garbagebag,weapon_garbagebag,Garbage Bag,nil,Melee killed / Whacked / Executed / Beat down / Murdered / Battered
+weapon_rayminigun,weapon_rayminigun,Weapon Rayminigun,AMMO_MINIGUN,Killed / Exploded / Obliterated / Destroyed / Erased / Annihilated
+weapon_heavypistol,weapon_heavypistol,Heavy Pistol,AMMO_PISTOL,Pistoled / Blasted / Plugged / Bust a cap in
+weapon_combatpdw,weapon_combatpdw,Combat PDW,AMMO_SMG,Riddled / Drilled / Finished / Submachine Gunned
+weapon_smg,weapon_smg,SMG,AMMO_SMG,Riddled / Drilled / Finished / Submachine Gunned
+weapon_rammed_by_car,weapon_rammed_by_car,Rammed - Vehicle,nil,Flattened / Ran over / Ran down
+weapon_minigun,weapon_minigun,Minigun,AMMO_MINIGUN,Killed / Exploded / Obliterated / Destroyed / Erased / Annihilated
+weapon_heavysniper_mk2,weapon_heavysniper_mk2,Weapon Heavysniper MK2,AMMO_SNIPER,Sniped / Picked off / Scoped
+weapon_ball,weapon_ball,Ball,AMMO_BALL,Died
+weapon_flashlight,weapon_flashlight,Flashlight,nil,Melee killed / Whacked / Executed / Beat down / Murdered / Battered
+weapon_rpg,weapon_rpg,RPG,AMMO_RPG,Killed / Exploded / Obliterated / Destroyed / Erased / Annihilated
+weapon_switchblade,weapon_switchblade,Switchblade,nil,Knifed / Stabbed / Eviscerated
+weapon_pumpshotgun,weapon_pumpshotgun,Pump Shotgun,AMMO_SHOTGUN,Devastated / Pulverized / Shotgunned
+weapon_combatmg,weapon_combatmg,Combat MG,AMMO_MG,Machine gunned / Sprayed / Ruined
+weapon_raycarbine,weapon_raycarbine,Weapon Raycarbine,AMMO_SMG,Riddled / Drilled / Finished / Submachine Gunned
+weapon_combatshotgun,weapon_combatshotgun,Weapon Combatshotgun,AMMO_SHOTGUN,Devastated / Pulverized / Shotgunned
+weapon_heavysniper,weapon_heavysniper,Heavy Sniper,AMMO_SNIPER,Sniped / Picked off / Scoped
+weapon_golfclub,weapon_golfclub,Golfclub,nil,Melee killed / Whacked / Executed / Beat down / Murdered / Battered
+weapon_minismg,weapon_minismg,Mini SMG,AMMO_SMG,Riddled / Drilled / Finished / Submachine Gunned
+weapon_snspistol,weapon_snspistol,SNS Pistol,AMMO_PISTOL,Pistoled / Blasted / Plugged / Bust a cap in
+weapon_mg,weapon_mg,Machinegun,AMMO_MG,Machine gunned / Sprayed / Ruined
+weapon_marksmanpistol,weapon_marksmanpistol,Marksman Pistol,AMMO_PISTOL,Pistoled / Blasted / Plugged / Bust a cap in
+weapon_militaryrifle,weapon_militaryrifle,Weapon Militaryrifle,AMMO_RIFLE,Ended / Rifled / Shot down / Floored
+weapon_battleaxe,weapon_battleaxe,Battle Axe,nil,Knifed / Stabbed / Eviscerated
+weapon_compactrifle,weapon_compactrifle,Compact Rifle,AMMO_RIFLE,Ended / Rifled / Shot down / Floored
+weapon_specialcarbine_mk2,weapon_specialcarbine_mk2,Weapon Wpecialcarbine MK2,AMMO_RIFLE,Ended / Rifled / Shot down / Floored
+weapon_appistol,weapon_appistol,AP Pistol,AMMO_PISTOL,Pistoled / Blasted / Plugged / Bust a cap in
+weapon_advancedrifle,weapon_advancedrifle,Advanced Rifle,AMMO_RIFLE,Ended / Rifled / Shot down / Floored
+weapon_carbinerifle_mk2,weapon_carbinerifle_mk2,PD 762,AMMO_RIFLE,Ended / Rifled / Shot down / Floored
+weapon_assaultrifle_mk2,weapon_assaultrifle_mk2,AK-47 MK2,AMMO_RIFLE,Ended / Rifled / Shot down / Floored
+weapon_fall,weapon_fall,Fall,nil,Committed suicide
+weapon_bottle,weapon_bottle,Broken Bottle,nil,Knifed / Stabbed / Eviscerated
+weapon_machete,weapon_machete,Machete,nil,Knifed / Stabbed / Eviscerated
+weapon_navyrevolver,weapon_navyrevolver,Weapon Navyrevolver,AMMO_PISTOL,Pistoled / Blasted / Plugged / Bust a cap in
+weapon_heli_crash,weapon_heli_crash,Heli Crash,nil,Helicopter Crash
+weapon_pumpshotgun_mk2,weapon_pumpshotgun_mk2,Pumpshotgun MK2,AMMO_SHOTGUN,Devastated / Pulverized / Shotgunned
+weapon_marksmanrifle_mk2,weapon_marksmanrifle_mk2,Weapon Marksmanrifle MK2,AMMO_SNIPER,Sniped / Picked off / Scoped
+weapon_briefcase_02,weapon_briefcase_02,Briefcase,nil,Melee killed / Whacked / Executed / Beat down / Murdered / Battered
+weapon_marksmanrifle,weapon_marksmanrifle,Marksman Rifle,AMMO_SNIPER,Sniped / Picked off / Scoped
+weapon_machinepistol,weapon_machinepistol,Tec-9,AMMO_PISTOL,Riddled / Drilled / Finished / Submachine Gunned
+weapon_compactlauncher,weapon_compactlauncher,Compact Launcher,nil,Killed / Exploded / Obliterated / Destroyed / Erased / Annihilated
+weapon_pistol,weapon_pistol,Walther P99,AMMO_PISTOL,Pistoled / Blasted / Plugged / Bust a cap in
+weapon_vintagepistol,weapon_vintagepistol,Vintage Pistol,AMMO_PISTOL,Pistoled / Blasted / Plugged / Bust a cap in
+weapon_revolver_mk2,weapon_revolver_mk2,Violence,AMMO_PISTOL,Pistoled / Blasted / Plugged / Bust a cap in
+weapon_heavyrifle,weapon_heavyrifle,Heavy Rifle,AMMO_RIFLE,Ended / Rifled / Shot down / Floored
+weapon_gadgetpistol,weapon_gadgetpistol,Weapon Gadgetpistol,AMMO_PISTOL,Pistoled / Blasted / Plugged / Bust a cap in
+weapon_bat,weapon_bat,Bat,nil,Melee killed / Whacked / Executed / Beat down / Murdered / Battered
+weapon_remotesniper,weapon_remotesniper,Remote Sniper,AMMO_SNIPER_REMOTE,Sniped / Picked off / Scoped
+weapon_dbshotgun,weapon_dbshotgun,Double-barrel Shotgun,AMMO_SHOTGUN,Devastated / Pulverized / Shotgunned
+weapon_hatchet,weapon_hatchet,Hatchet,nil,Knifed / Stabbed / Eviscerated
+weapon_microsmg,weapon_microsmg,Micro SMG,AMMO_SMG,Riddled / Drilled / Finished / Submachine Gunned
+weapon_dagger,weapon_dagger,Dagger,nil,Knifed / Stabbed / Eviscerated
+weapon_bread,weapon_bread,Baquette,nil,Melee killed / Whacked / Executed / Beat down / Murdered / Battered
+weapon_explosion,weapon_explosion,Explosion,nil,Killed / Exploded / Obliterated / Destroyed / Erased / Annihilated
+weapon_pistol_mk2,weapon_pistol_mk2,Pistol Mk II,AMMO_PISTOL,Pistoled / Blasted / Plugged / Bust a cap in
+weapon_pistol50,weapon_pistol50,Pistol .50 Cal,AMMO_PISTOL,Pistoled / Blasted / Plugged / Bust a cap in
