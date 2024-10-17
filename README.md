@@ -1,3 +1,5 @@
+## No longer maintained
+
 ## Usage
 1. Put your QBConfig file in config folder
 2. Add `return(QBShared)` at the very end
@@ -5,7 +7,6 @@
 
 ## Requirements
 - Lua
-- Lua path
 
-Author : Guzzdev
+Author : guzzdev
 
